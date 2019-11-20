@@ -14,6 +14,7 @@ Steak is one of the favourite food enjoyed by people in the U.S. But how to oper
 - Finding useful dimensions used to construct rating system. Then, calculating rates for each dimension for each steakhouse. For some steakhouse without enough reviews, no rates will return.
 
 ### Shiny
+Link: https://aurorawu1996.shinyapps.io/yelp_review/
 - Show a location for each steakhouse in a map.
 - Show a rates distribution for each steakhouse.
 - Show a radar plot for each steakhouse.
