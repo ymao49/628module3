@@ -1,0 +1,1602 @@
+business_id,service,drink,time,price,food
+The Broiler (4111 Boulder Hwy),4.5,3.6,4.112903226,3.611111111,4.510869565
+Steak On a Stone (145 Montrose West Ave),1.928571429,2.5,2.944444444,2.375,1.933333333
+Silver Nugget Steak House (2140 Las Vegas Blvd N),3,4,4,2.5,3.666666667
+Little Shmiddy's Hot Meat House (584 Parliament Street),4.083333333,0,5,4.666666667,4.576923077
+Timpone's (710 S Goodwin Ave),2.783783784,3,3.4,2.854166667,3.456521739
+McCormick & Schmick's Seafood & Steaks (2667 Sidney St),2.9140625,2.183333333,3.086956522,2.596774194,2.475308642
+Texas Roadhouse (8510 S Emerald Dr),3.35042735,3.640625,3.769662921,3.862068966,3.711409396
+The Woodshed Restaurant (210 S Main St),2.95,2.5,3.625,2.857142857,3.533333333
+South Philly Steak & Fries (301 S Hills Village),0,3.5,2.083333333,3.5,2.166666667
+Chartreuse (10512 Islington Avenue),3.666666667,0,1,4.5,3.285714286
+"lbs. Restaurant (100 Yonge Street, Suite 100)",3.530612245,3.166666667,3.016666667,2.596153846,3.156862745
+Texas Roadhouse (7801 Gateway Lane),3.28125,3.083333333,3.067567568,3.473684211,3.472222222
+Andiron Steak & Sea (1720 Festival Plaza Dr),4.034653465,3.857142857,3.830128205,2.86627907,3.978187919
+Wild Eagle Steak & Saloon (5001 E Royalton Rd),3.088235294,3.566666667,3.333333333,1.6,3.517241379
+La Banquette (4840 Boulevard Samson),0,1,0,0,5
+Tilted Grill (1800 4th Street SW),3.875,3.5,3.2,2.375,2.666666667
+The Brock House (918 Brock Street N),3.235294118,3,4.153846154,2.730769231,2.846153846
+Outback Steakhouse (4141 S Pecos Rd),3.625,3.5,3.75,3.75,4.25
+Logan's Roadhouse (3481 W Frye Rd),0,0,3,4.5,5
+Fuegos - Steak Tapas Vegan (904 Williamson St),3.363157895,3.423076923,3.064935065,3.019230769,3.520325203
+Lawry's The Prime Rib (4043 Howard Hughes Pkwy),4.430608365,4.072289157,4.359237537,3.253472222,4.428571429
+Medina Steak and Seafood Company (538 W Liberty St),3.333333333,5,3,2.25,3.208333333
+Restaurant Rube (147 Route 201),4.5,1,3.666666667,1,3.75
+Auberge du Dragon Rouge (8870 Rue Lajeunesse),4.625,4,4.444444444,4.5,4.642857143
+Grillades Torino (977 Rue Sainte-Catherine O),5,0,3.333333333,4.5,3.833333333
+Outback Steakhouse (521 N Stephanie St),4.084269663,4.117021277,3.82,3.515625,3.954773869
+Feiler's (4506 Verona Rd),3.75,2,4,4.5,3.333333333
+Bob Taylor's Ranch House (6250 Rio Vista St),3.232044199,3.074074074,3.736686391,3.107758621,3.588105727
+Ken Stewart's East Bank (1121 W 10th St),2.814814815,3.291666667,3.176470588,2.805555556,3.140625
+"Simon Restaurant and Lounge (Palms Place Hotel & Spa, 4381 W Flamingo Rd)",2.886075949,3.615853659,3.663265306,2.5625,3.056818182
+"Morton's The Steakhouse (227 W Trade St, Ste 150)",4.140625,3.637931034,3.892857143,2.518518519,4.065217391
+Shogun (306 E Garrison Blvd),2.5,1.166666667,2.153846154,1.25,2.470588235
+Wellington's of Calgary Dining & Lounge (10325 Bonaventure Drive SE),4.023809524,1,3.923076923,3.8,3.631578947
+"Michael T's Steaks, Ribs, & Burgers (7315 W Warm Springs Rd)",4.06557377,3.903846154,3.840909091,3.75,4.331521739
+"Geisha House Steak & Sushi (6125 S Fort Apache Rd, Ste 200)",3.068965517,3.366666667,3.413043478,3.416666667,3.628205128
+Outback Steakhouse (738 Howe Ave),3.115384615,3.583333333,3.363636364,3.5,3.46875
+Lone Star Steakhouse & Saloon (10610 Centrum Pkwy),3,0,2,0,3
+"Bâton Rouge Steakhouse & Bar (25 Consumers Drive, Unit 2)",3.111111111,1.25,2.8,4.5,1.944444444
+Cafe Arc De Triomphe (5813 Yonge Street),3.2,3.5,3.5,2.7,3.142857143
+Morso Me (850 King Street W),0,0,4,4.166666667,4.1
+Applebee's Grill + Bar (525 Grandview Crossing Dr),2.5,2.2,1.875,2.5,3.214285714
+Milestones Restaurants (3625 Shaganappi Trail Nw),3.052631579,2,2.90625,2.583333333,2.532258065
+Mariners (5339 Lighthouse Bay Dr),3.632352941,2.928571429,3.404761905,2.8,3.4875
+"Boucher Double (5555 Boulevard des Laurentides, Suite 5)",2.1,0,2,0,1.25
+"Ruth's Chris Steak House (Harrah's Las Vegas Hotel & Casino, 3475 Las Vegas Boulevard South)",3.936734694,4.094827586,3.619863014,2.686440678,4.150900901
+Gus (38 Rue Beaubien E),4.847826087,4.166666667,4.894736842,3.5,4.828125
+"Backwood Smokehouse (50 Clinton Street, Suite C)",2.277777778,2.125,3.666666667,2.375,2.857142857
+Buccis (7230 Engle Rd),4,3.5,1.5,3.25,3.25
+Chop Chandler (2625 W Queen Creek Rd),3.352777778,3.346153846,3.449152542,2.309859155,3.368686869
+Carver's Steakhouse (2620 32 Avenue NE),4.166666667,4,2.75,3.583333333,4.142857143
+The Bank Restaurant (125 8th Avenue SW),1.5,1,3,1.5,1.5
+LongHorn Steakhouse (410 W Waterfront Dr),2.885714286,2.3,2.485714286,3.038461538,2.966666667
+The Keg Steakhouse & Bar (18195 Yonge Street),4.454545455,2.333333333,4.166666667,1,4.181818182
+"Neros (Caesars Palace, 3570 Las Vegas Blvd S)",3.209677419,2.769230769,3.789473684,2.933333333,3.148148148
+Wagon Yard (2625 E Bell Rd),3.161290323,2.857142857,3.810810811,3.444444444,2.8515625
+Sakura Japanese Steakhouse + Sushi (850 Patriot Pkwy),3.3,3.3,3.428571429,3.454545455,3.807692308
+Tiffany's (7977 Boulevard Décarie),3.411764706,3.25,2.642857143,2.571428571,3.675
+Off The Strip at the LINQ (3545 Las Vegas Blvd S),3.794314381,3.690647482,3.405737705,3.119047619,3.64171123
+Outback Steakhouse (4180 N Drinkwater Blvd),2.666666667,5,3,4.5,2.5
+Applebee's Grill + Bar (7159 Macedonia Commons Blvd),2,2.666666667,2.5,2,2.388888889
+Bobby's Restaurant and Lounge (7122 E Greenway Pkwy),3.137362637,3.573529412,3.490909091,2.370967742,3.19379845
+Jacobs & Co. Steakhouse (12 Brant Street),4.646428571,4.590909091,4.513422819,3.744680851,4.4
+Ric's Lounge & Grill (2875 Sunridge Way NE),2.722222222,1.928571429,2.166666667,2.25,2.264705882
+MB Steak (4455 Paradise Rd),4.38,4.666666667,3.543478261,3.666666667,4.336956522
+"Mancuso's Restaurant (201 E Washington St, Ste 201)",4.064516129,3.552631579,3.321428571,2.821428571,4.263157895
+The Keg Steakhouse + Bar (23 S McClintock Dr),4.306010929,4.183823529,3.708695652,3.222222222,3.905555556
+Lone Star Texas Grill (2520 Hyde Park Gate),2.638888889,2,2.65,2.125,1.925
+Costa Del Sol At Sunset Station (1301 W Sunset Road),4.375,0,5,4.75,4.833333333
+Speakeasy Saloon and Grill (7450 W Chandler Blvd),2.571428571,2.230769231,2.05,1.5,2.785714286
+Logan's Roadhouse (102 Bass Pro Dr),2.558823529,1.642857143,2.461538462,3.125,2.789473684
+Rouge Boeuf (66 Route 132),2.333333333,0,2.5,2.5,2.75
+Straight From Philly (237 N Stephanie St),4.051724138,3.863636364,4.027777778,3.694444444,3.56
+Musashi Japanese Steakhouse (3900 Paradise Rd),3.479057592,3.775362319,3.844827586,3.780991736,4.352459016
+Claim Jumper Restaurant & Saloon (1100 S Fort Apache Rd),2.812834225,2.5234375,2.858333333,2.965517241,2.565217391
+"Onion Steak and Seafood (668 Silver Star Boulevard, Unit 203)",4.1,0,3,3.5,3.416666667
+Texas Roadhouse (16079 N Arrowhead Fountains Center Dr),3.814285714,3.558823529,3.562015504,3.673913043,3.793296089
+Grinder (1708 Rue Notre-Dame O),3.634146341,3.375,3.648148148,3.7,3.843137255
+Joe Mamas (317 King St W),2.5,3.267857143,3.047619048,2.928571429,2.6625
+Chenoy's Delicatessen (355 Boulevard Curé-Labelle),2.5,0,4,2.25,2.5
+Montana's BBQ & Bar (5622 Signal Hill Ctr Sw),2.5,1.5,2.892857143,2.5,3.020833333
+Magal BBQ (4240 Spring Mountain Rd),4.549833887,4.05,4.469325153,3.844594595,4.554817276
+Ron's Steakhouse (740 S Decatur Blvd),3.473214286,3.909090909,3.673076923,3.793103448,4.336734694
+Montana's BBQ & Bar (41 Milner Ave),2.138888889,3.166666667,2.295454545,1.75,2.564102564
+"Michael Arthurs Pub (8129 Ardrey Kell Rd, Ste 105)",5,5,0,4.5,5
+Logan's Roadhouse (2840 E Franklin Blvd),3.458333333,3.25,3.541666667,3.666666667,3.42
+Monterra at WestWorld (16601 North Pima Rd),0,0,4,5,2.375
+Haze Lounge (4230 Sherwoodtowne Boulevard),2.944444444,3.5625,3.208333333,3,3.736842105
+Chop Steakhouse & Bar (33 Hopewell Way NE),4,3.4,4.45,3.375,3.772727273
+Kelseys Original Roadhouse (2870 Queen Street E),3.333333333,0,3.375,2.5,2.909090909
+"TBG's Balkan Steakhouse (3175 Rutherford Road, Unit 17, Building E)",2,0,3.5,3.5,2.5
+The Rock (1446 17 Avenue SW),5,5,4.722222222,3.8125,4.461538462
+XO Seafood & Oysters (29425 Chagrin Blvd),4.107142857,3.6,3.9375,2.615384615,3.529411765
+Palmieri's Restaurants (951 Old Frankstown Rd),4.333333333,4.333333333,4,3.583333333,4.142857143
+Quaker Steak & Lube (4094 Pearl Rd),3.730769231,2,2.708333333,1.833333333,2.916666667
+"Ballers' Bistro (600 Matheson Boulevard W, Unit 4)",2,2.25,2.769230769,1.857142857,2.525
+Hendriks Restaurant & Bar (218 Yonge Street),3.833333333,4,4,2.555555556,3.827586207
+Outback Steakhouse (1080 N 54th St),3.663636364,3.016129032,3.28,2.090909091,3.368055556
+Applebee's Grill + Bar (9174 Mentor Ave),3.8,4.75,2.4,3,2.285714286
+Applebee's Grill + Bar (2070 N Rainbow Blvd),2.206896552,2.5875,2.343137255,1.928571429,2.970588235
+OMO Teppan and Kitchen (5222 Macleod Trail SW),3.625,3,3.416666667,3.5,4.366666667
+Quaker Steak & Lube (115 Federal St),2.833333333,0,0,3.333333333,3.75
+Cafe 28 (10 E Wilmot St),0,2.5,2.666666667,2.4,3.333333333
+Red Rocks Cafe-Huntersville (8712 Lindholm Dr),4.241176471,4.396551724,3.543859649,2.537037037,3.363636364
+Toro Wine bar (1588 Dundas Street W),3.25,0,5,3.5,4.357142857
+Ken Stewart's Lodge (1911 N Cleveland Massillon Rd),3.171428571,3.588235294,3.045454545,2.340909091,3.534090909
+Rawhide At Wild Horse Pass (5700 W N Loop Rd),2.913043478,3,2.871794872,2.551724138,3.671052632
+"Baba (5 Complexe Desjardins, 150 Rue Sainte-Catherine O)",4.166666667,4,4.5,3.833333333,3.95
+Strip House (3667 Las Vegas Blvd S),4.247634069,3.279761905,4.283707865,3.057471264,3.900343643
+La Carcasse (277 Rue Saint-Pierre),4,0,0,3.5,0
+Gamekeeper's Taverne (87 West St),3.524390244,3.375,2.846153846,2.25,3.590909091
+Sparks Premium Grill + Bar (2620 Rutherford Road),3.423076923,3.7,2.375,2.818181818,3.636363636
+Hibachi Japanese Steakhouse (775 Alpha Dr),1.730769231,1.1875,3.266666667,2.214285714,1.984375
+Urban Farmer (1325 E 6th St),3.782608696,3.806666667,3.824,2.847058824,3.85021097
+Dominick's Steakhouse (15169 N Scottsdale Rd),4.271428571,4.166666667,3.626984127,3.235714286,4.272727273
+Le Grill Barroso (3060 boulevard Saint-Joseph),2.25,0,0,0,0
+Steak (76 W Horizon Ridge Pkwy),3.5,4.666666667,4.5,3.25,2.875
+The Steakhouse at Treasures (2801 Westwood Dr),5,5,0,5,4
+Fleming's Prime Steakhouse & Wine Bar - Las Vegas (6515 S Las Vegas Blvd),4.388372093,4.257575758,4.125,3.058823529,4.242290749
+Topiary's Steak & Seafood (3215 Derry Road E),4.230769231,5,4.5,3.5,4.1
+Rio Sabor Brazilian Steakhouse (10425 N Scottsdale Rd),3.5,0,3,0,4.625
+THE Steak House (2880 S Las Vegas Blvd),4.114114114,3.534482759,4.226804124,3.455479452,4.265182186
+Steak Escape West Towne Mall (118 W Towne Mall),4.75,0,0,0,4
+Fleming's Prime Steakhouse & Wine Bar- Akron (4000 Medina Rd),4.241071429,3.875,4.5,3,4.406779661
+Rustler's Rooste (8383 S 48th St),2.446774194,2.746428571,3.5,2.404929577,2.607526882
+Queue de Cheval (1181 Rue de la Montagne),3.388888889,2.30952381,3.354545455,2.113636364,3.212121212
+BLT Steak (110 N College St),4.0375,4.363636364,3.909090909,2.961538462,3.256410256
+Dunn's Famous (3360 Boulevard Des Sources),2.25,2,0,2,2.1
+"Americana (2620 Regatta Dr, Ste 118)",4.50678733,3.9,4.318584071,3.872727273,4.515503876
+Hawthorn Grill (221 N Rampart Blvd),3.481481481,3.571428571,3.758064516,3.538461538,3.780701754
+Madisons (1190 Rue Volta),3,0,0,1.5,3
+Scarpetta (1003 9th Avenue SE),4.06,2.888888889,3.421052632,4,3.816666667
+Black Angus Steakhouse (6902 E Hampton Ave),2.96875,3.117647059,2.538461538,2.366666667,3.046296296
+Country Club (3131 Las Vegas Blvd S),4.346666667,3.3875,3.596385542,3.478723404,3.78313253
+The Place Steakhouse (6308 Bowness Road NW),4.4,0,3.166666667,3,4.333333333
+Jargo (8 Sherbrooke Ouest),2.5,0,0,0,2.666666667
+The Hilltop (4173 County Rd P),2.5,3.583333333,3.5,3.5,3.730769231
+"BLT Steak, Scottsdale (5402 E Lincoln Dr)",3.698113208,4.527027027,3.673611111,3.161290323,4.086021505
+Fyfe's Corner Bistro (1344 E Washington Ave),3.5,3.5,4.5,0,5
+Texas Land & Cattle (7779 Lyles Ln),3.233333333,2.677419355,2.95,2.75,2.451388889
+DeSimone's Steakhouse (1500 Railroad Pass Casino Rd),4.5,3.5625,3.5625,3.722222222,3.703125
+"Moxie's Grill & Bar (30 Colossus Dr, Unit B)",3.692307692,3.825,4.075,3.071428571,3.375
+JOEY Barlow (3026 23rd Street NE),4.172413793,3.733333333,3.454545455,2.875,3.871428571
+Rumfish Grille (1155 Washington Pike),2.47826087,2.704918033,2.457142857,2.166666667,2.75
+"Red Ginger (401 S Tryon St, Ste 130)",2.761904762,3.366666667,2.985074627,3.116666667,3.556451613
+Montana's BBQ & Bar (2910 Steeles Avenue E),2.369565217,2.3125,1.636363636,2.5,2.34
+Train 344 (283 Chemin de la Grande-Côte),5,0,5,0,4.75
+Jean Georges Steakhouse (3730 Las Vegas Blvd S),3.734110169,3.785046729,3.852422907,2.642857143,3.596296296
+Citizens Kitchen and Bar (3950 Las Vegas Blvd S),3.117241379,3.516129032,3.120253165,2.583333333,2.686842105
+Applebee's Grill + Bar (2032 E Baseline Rd),2.294117647,2.480769231,2.06097561,3.181818182,2.31147541
+Mc Govern's Club and Restaurant (820 W Main St),2.9,2.666666667,3.388888889,2.875,2.916666667
+Prime Rib Steakhouse (740 W Superior Ave),3.833333333,2,3.642857143,3.5,3.461538462
+"Homestead Steaks (7914 W Dodge Rd, Ste 251)",0,0,0,0,1
+Zero 8 (1735 St-Denis),3.6875,3.666666667,3.5,3.5,3.75
+Pompette (4128 Boulevard Saint-Laurent),4.6,4.5,5,5,4.333333333
+Zoes Kitchen (14601 Scottsdale Road),2.641025641,4.1,2.817073171,3.676470588,3.545977011
+Lodge Wood Fired Grill (10175 Weddington Rd NW),2.5,0,1.5,3,2.25
+"Applebee's Grill + Bar (4801 McKnight Rd, North Hills Village Mall)",1.722222222,1.4,1.714285714,2.3,2.425
+Vegas CheeseSteaks (),0,5,2.666666667,0,3.2
+Texas Roadhouse (511 Clairton Blvd),3.95,3.8,3.625,0,3.944444444
+Caesar's Steak House (512 4 Avenue SW),3.91025641,2.409090909,3.789473684,2.583333333,3.75
+Bally's Steakhouse (3645 Las Vegas Blvd S),3.712121212,3.733333333,3.25,3.066666667,3.222222222
+"Applebee's Grill + Bar (1421 Town Ctr Blvd, Ste B-10)",3.142857143,2,2.785714286,0,2.363636364
+"Red, the Steakhouse (3355 Richmond Rd)",4.074324324,3.789473684,4.019230769,3.282608696,4.030487805
+Applebee's Grill + Bar (3401 Steelyard Dr),2,1.625,1.833333333,1.833333333,2.441176471
+"Jakes Bistro + Bar (1380 Major Mackenzie Drive E, Unit G-1)",4.3125,3.333333333,4.071428571,3.916666667,3.8
+"Louisiana Seafood and Steakhouse (1 Steeles Ave E, Unit 16)",1.9375,2.5,2.619047619,2.142857143,2.180555556
+Wasabi Japanese Steakhouse (4181 Rockside Rd),4.095238095,3.25,3.594339623,3.166666667,4.016666667
+Fleming's Prime Steakhouse & Wine Bar- Chandler (905 N 54th St),4.104938272,2.895833333,3.138392857,2.60483871,3.87254902
+"Kanji Steak and Sushi (6125 S Fort Apache Rd, Ste 200)",4.485714286,4.65625,4.403225806,4,4.636363636
+Gallery Restaurant (10000 Ballantyne Commons Pkwy),3.826086957,3.045454545,3.458333333,3.136363636,3.8
+Ballantine (4113 Erie St),2.829268293,3,3.540540541,2.590909091,3.11
+"Pita Palms (15605 W Roosevelt St, Ste 106)",4.574074074,3.3125,4.204545455,4,4.339449541
+Oliver's Ale House (6155 Tomken Road),4.714285714,5,0,4.5,3.529411765
+Binion's Cafe (128 Fremont St),2.711340206,2.537037037,3.49137931,2.990384615,2.731818182
+Bobby Q - Biltmore (3154 E Camelback Rd),4.578947368,4.272727273,4.383928571,3.409090909,4.757425743
+McCormick & Schmick's Seafood & Steaks (301 5th Ave),2.669354839,3.313953488,2.62962963,2.780487805,3.23125
+Madisons NY Bar& Grill (7265 Bd des Galeries d'Anjou),3.6,2,0,0,3
+Lone Star Texas Grill (212 King St W),4,2.5,3.5,2.25,3.954545455
+Sammy's Famous Corned Beef (420 Smithfield St),2,0,1.75,0,2.25
+Mickey & Mooch (9723 Sam Furr Rd),3.660714286,3.409090909,2.884615385,2.482142857,3.525641026
+D'vine Diner (7746 Elbow Drive SW),3.2,2,2.666666667,2,3.8125
+Hoss's Steak & Seahouse (1011 Beaver Grade Rd),4,0,0,0,4
+"Onion Steak Sub (3390 Novat St, Ste 120)",3.7,5,4.166666667,3.875,3.857142857
+Texas Roadhouse (1863 Remount Rd),4.063829787,3.25,3.648148148,3.75,3.845238095
+Zach's Place (425 W Bagley Rd),3,4,2.5,5,3.833333333
+The Keg Steakhouse + Bar (3065 W Chandler Blvd),4.304347826,3.947761194,4.254464286,3.317307692,4.185082873
+Chuck's Roadhouse (283 Kingston Road E),3.8,3.25,3,3.166666667,3.954545455
+Ocean Prime (5455 E High St),4.18,3.99,3.97972973,2.972222222,4.285714286
+Texas Roadhouse (3466 William Penn Hwy),2.3,2.75,3.777777778,2.666666667,3.65625
+Restaurant la Bohème (251 Rue Principale),3.5,0,5,3.5,4.75
+The Lot at Edgewater (145 Allegheny Ave),3.676470588,2.777777778,3.214285714,3.055555556,4.145833333
+35 Steaks + Martinis (4455 Paradise Rd),3.551401869,3.65,3.833333333,3.03125,3.81
+17 Steakhouse and Bar (5165 Dixie Road),4.282608696,2.5,4.066666667,3.333333333,4.362068966
+Mortys Steakhouse Restaurant (5395 Queen Mary),2.125,0,3,1,2.333333333
+Reuben's (888 Rue Sainte-Catherine O),3.404255319,3.681818182,4.214285714,2.933333333,3.638888889
+Montana's BBQ & Bar (65 Skyway Ave),2.333333333,3.083333333,1.833333333,1.75,2.083333333
+The Shore Club - Toronto (155 Wellington Street W),4.129213483,4.125,4.139534884,2.861111111,3.942307692
+The Angry Butcher (5111 Boulder Hwy),3.843283582,3.3,3.034482759,3.25,3.438461538
+"Pampas Churrascaria Brazilian Grille (3663 S Las Vegas Blvd, Ste 610)",2.609744991,3.223214286,2.521978022,2.300429185,3.409351928
+Bâton Rouge (4890 Boulevard Taschereau),2.8,5,0,0,1.75
+"Krave Pizza & Bar (705 Main Street, Suite 100)",5,0,0,0,4.75
+Dressler's Restaurant - Birkdale Village (8630 1-A Lindholm Dr),4.407142857,4.307692308,4.138297872,3.1875,4.448051948
+Butch's Saloon (10009 W 130th St),0,0,1.166666667,4.5,3
+The Charcoal Room (4949 N Rancho Dr),3.663636364,3.681818182,3.74137931,3.421052632,4.035714286
+Austins Steakhouse (2101 Texas Star Ln),4.246268657,4.384615385,4.122222222,3.184210526,3.652173913
+Sunset Station (1301 W Sunset Rd),3.229007634,3.601694915,3.065789474,3.209302326,3.816993464
+Hot Stove Club (40 Bay Street),4.5,4,4,4.5,4.5
+"The Garden Grill (Circus Circus Las Vegas, 2800 Las Vegas Blvd S)",3.416666667,3.192307692,3.1875,2.625,3
+Applebee's Neighborhood Grill & Bar (8730 W Charleston Blvd),2.322222222,2.770833333,2.965517241,2.416666667,2.788461538
+Whistlers Kitchen & Bar Wood-Fired (36816 Detroit Rd),4.208333333,4.5,3.916666667,3.722222222,4.45
+Don's Pomeroy House (13664 Pearl Rd),4.2578125,3.625,4.178571429,3.291666667,4.019230769
+"Geisha House Steak & Sushi (6572 N Decatur Blvd, Ste 150)",3.818181818,3.271929825,3.578947368,3.06557377,3.727272727
+The Capital Grille (201 N Tryon St),4.454761905,4.528301887,4.394927536,3.221153846,4.434895833
+Tempest Oyster Bar (120 E Wilson St),4.26344086,4.173913043,3.884615385,3.42,3.981481481
+Cartwright's Modern Cuisine (6710 E Cave Creek Rd),3.973684211,3.466666667,3.423728814,2.397727273,3.925742574
+Local Jerk (8 Avenue Duluth E),4.5,3.166666667,3.75,3.25,4.352941176
+"Il Chianti Italian Steak & Seafood (72 W Horizon Ridge Pkwy, Ste 100)",4.755813953,3.857142857,4.5125,3.666666667,4.754545455
+Hikari (4175 S Buffalo Dr),3.768096515,3.514705882,3.460992908,3.595041322,3.763313609
+Crossroads Restaurant & Bar - Las Vegas (3950 Las Vegas Blvd),3.677777778,3.368421053,3.290322581,2.5,3.147887324
+Smith & Wollensky (3767 Las Vegas Blvd S),3.563596491,3.8125,3.478723404,3.006493506,4.044117647
+LongHorn Steakhouse (4171 Rockside Rd),3.136363636,3.083333333,3.657894737,1.625,3.462962963
+"Le Montréal (Casino de Montréal - Level 5, Pavillon la France - 1 Avenue du Casino)",3,2,3,1.833333333,2
+Bill Johnson's Big Apple Restaurants (3101 W Indian School Rd),2.428571429,2.5,2.625,2,3.291666667
+Day & Night Angus Steak Raw Bar (548 Carlton Road),3,3.909090909,2.946428571,2.875,3.058139535
+Applebee's Grill + Bar (1201 N Dunlap Ave),2.277777778,1.571428571,2.192307692,1.75,2.394736842
+The Portuguese Chicken Guys (898 College Street),4.25,5,3.25,3.75,4.083333333
+The Keg Steakhouse + Bar - Bloor West Mall (291 The West Mall),3.607142857,4.4,3.833333333,2.166666667,3.615384615
+Peter's Fine Dining Steak and Seafood (5701 Hwy 7),4.6625,4.318181818,4.571428571,4.02173913,4.5
+Steakhouse at Bill's (3595 Las Vegas Blvd S),2.1,0,2.75,2.4375,2.821428571
+Prime Quarter Steak House (3520 E Washington Ave),3,2.9375,4.071428571,4.1,2.95
+Texas Roadhouse (245 Market Dr),3.066666667,3.375,3.6,2.375,3.555555556
+Black Forest Steak House & Tavern (2624 Eglinton Avenue E),4.2,0,4.833333333,4.1,4.375
+Outback Steakhouse (110 Montrose West Ave),3.4,1.75,1.875,5,3.08
+"Omaha Steaks (9831 Rea Rd., Suite F)",2.5,0,1,3.5,0
+The Keg Steakhouse + Bar - Pointe-Claire (6815 Autoroute Transcanadienne F017),3.789473684,3.545454545,3.916666667,3.3,3.7
+Magnan (2602 Rue Saint-Patrick),3.5,0,3.928571429,3.5,3.833333333
+"Hand Cut Burgers & Chophouse (7135 E Camelback Rd, Ste 154)",4.223021583,4.034722222,3.413265306,3.39,3.993865031
+Texas Roadhouse (2600 W Happy Valley Rd),3.391566265,3.8,3.224137931,3.525,3.556179775
+Sahan Restaurant (2010 Lawrence Avenue E),4.294117647,5,4.85,4.5,4.464285714
+The Octagon Restaurant (7529 Yonge Street),3.90625,3,3.277777778,2.617647059,3.754901961
+Terrace On the Green (8672 Mississauga Road),3.5,3.5,2,2.75,3.2
+Texas Roadhouse (10450 E. Independence Blvd.),4.007352941,3.340909091,3.827586207,3.71875,3.649425287
+Texas de Brazil (6533 Las Vegas Blvd S),4.448138298,4.328125,4.30669145,3.752525253,4.493455497
+Steaks R US (3655 E Southern Ave),0,0,0,2.666666667,3.166666667
+Black Angus Steakhouse (3250 Bloor Street W),3.666666667,2,1.25,2.333333333,3.5
+Applebee's Grill + Bar (1050 Village Ctr Dr),3.2,2.214285714,3.5,2.166666667,2.5625
+Gordon Ramsay Steak (3655 Las Vegas Blvd S),4.230340212,4.106446777,4.068544996,2.929338104,4.080802603
+ParkerHouse Grill & Wine Bar (131 6th Avenue SW),3.863636364,3,3.4,3.166666667,3.909090909
+Black Angus Steakhouse (2770 W Chandler Blvd),3.236486486,3.28,3.265151515,2.730769231,3.129032258
+"Restaurant Houston Steaks et Cotes Levees (Aeroport Trudeau Montreal, US Departures Side)",1.907894737,2.15,2.314814815,1.666666667,2.3125
+Hole-in-the-Wall (7677 North 16th St),2.7625,3.5,2.22,2.28125,2.759259259
+The Keg Steakhouse + Bar - Mansion (515 Jarvis Street),4.421212121,4.205357143,4.12254902,3.559322034,4.150943396
+Max Sports Grille (7134 E Thomas Rd),2.344827586,3.045454545,2.166666667,2.307692308,3.239130435
+Yard House (7014 East Camelback Rd),3.768292683,3.425438596,3.975,3.064285714,3.561514196
+Hugo's Cellar (202 Fremont St),4.497017893,4.337121212,4.346153846,3.568062827,4.397
+Montana's BBQ & Bar (8735 Yonge St),3.137931034,2.583333333,2.676470588,2.9,3.238095238
+Cattlebaron Alberta Steak House and Bar (33 Sun Valley Boulevard SE),3.74137931,5,3.880952381,3.142857143,3.9375
+Barbie's (7850 Boulevard Taschereau),3,0,2.875,3.75,2.888888889
+Firebirds Wood Fired Grill (3435 W Chandler Blvd),4.289667897,4.096153846,4.134078212,3.335443038,4.204152249
+Restaurant Yotis (7255 Chemin de Chambly),2.75,0,4.5,0,2
+"Del Frisco's Double Eagle Steakhouse (4725 Piedmont Row Dr, Ste 170)",4.289340102,3.730769231,3.785087719,2.959677419,4.157738095
+MRKT (7301 Aliante Pkwy),3.760204082,3.279069767,3.811320755,3.013157895,3.798076923
+Strip (36840 Detroit Rd),4.219178082,4.263157895,4.347457627,3.288461538,3.801980198
+Omaha Steak House (4800 S Tryon St),3.1,2.166666667,3,1.75,3.235294118
+Applebee's Grill + Bar (820 E Warm Springs Rd),2.175,2,2.511904762,2.5625,2.737704918
+Captains Galley Seafood Shack (290 Copperfeild Blvd),3,2.833333333,1.75,3.333333333,2.727272727
+"FIX (Bellagio Las Vegas, 3600 S Las Vegas Blvd)",3.331632653,3.940828402,3.778481013,2.712686567,3.217983651
+Ric's Grill (1436 8th St SW),3.055555556,0,2.6,1.5,3.5
+Girves Brown Derby (18332 Bagley Rd),2.35,2.388888889,2.761904762,2.384615385,2.615384615
+Applebee's Grill + Bar (699 N Stephanie St),2.885542169,2.893617021,2.462686567,2.710526316,3.07826087
+"Rich II Fine Cuisine (4350 Steeles Avenue E, Unit A1)",2.375,1,4.5,1.666666667,1.833333333
+Primo Prime (116 Middleton Dr),4.6,4,5,4,4.642857143
+The Keg Steakhouse + Bar - Esplanade (26 The Esplanade),4.371212121,4.333333333,4.197674419,3.714285714,4.220338983
+Lone Star Texas Grill (157 York Blvd),3.5,5,3,2.5,3.25
+Handlebar J (7116 E Becker Ln),3.473684211,3.201923077,3.696428571,2.684210526,3.905555556
+Charya's (2973 S Park Rd),4.166666667,2.5,4,3.5,3.944444444
+The Ribeye (1701 S Neil St),3.555555556,2.642857143,3.029411765,2.294117647,2.865384615
+Firebirds Wood Fired Grill (6801 Northlake Mall Dr),3.57,4.051282051,3.637096774,3.0625,3.966981132
+Delmonico Steakhouse (3355 Las Vegas Blvd S),4.40290758,4.075675676,4.373747495,3.185714286,4.201398601
+Elliott's BBQ and Steakhouse (611 Old Clairton Rd),3.625,3.25,3.888888889,4,3.375
+"Top Gun Steak & Burgers (1960 Lawrence Avenue E, Unit 3)",2.5,3,2.416666667,3.0625,2.9
+Steak ’n Shake (4000 Medina Rd),3.5,2.5,2.625,2.714285714,3.375
+Lone Star Steakhouse (1743 E. Camelback Road),3.214285714,4.117647059,3.958333333,3.25,3.122222222
+LongHorn Steakhouse (10605 Centrum Pkwy),3.87804878,3.676470588,3.481481481,3,3.69047619
+"Shogun Japanese Steak House (34302 Euclid Ave, Unit 1)",4.666666667,0,3.9375,3.75,4.142857143
+Papa Luigi (155 Rue Principale),3.6,0,0,4.5,3
+Henry Wahner's Restaurant & Lounge (1609 E Main St),3.375,3,3.25,3.090909091,4.089285714
+Buchanan's Chop House Whisky Bar (738 - 3 Avenue SW),3.428571429,2.928571429,3.772727273,4,3.59375
+Bourbon Steak (7575 East Princess Drive),3.86969697,3.518181818,3.353932584,2.93442623,3.926470588
+Applebee's Grill + Bar (4710 E Towne Blvd),2.5,2.357142857,2.269230769,1.666666667,2.454545455
+Oak Steakhouse Charlotte (4777 Sharon Rd),4.4609375,3.80952381,3.206896552,2.911764706,3.782608696
+The Keg Steakhouse + Bar - Richmond Hill (162 York Blvd.),3.845679012,4.210526316,3.382352941,3.65,3.9
+Orange Sky (9800 E Talking Stick Way),4.209854015,3.855263158,3.978527607,3.091463415,4.265927978
+"Monstah Lobstah (9310 Eastern Ave, Ste 124)",2.714285714,2.416666667,3.285714286,3.071428571,3
+Capitol ChopHouse (10 E Wilson),2.919354839,3.35,2.911764706,2.326086957,3.051724138
+Golden Corral Family Steak House (7701 N Tryon St),2.642857143,2.2,3,3,2.733333333
+"Fogo de Chão Brazilian Steakhouse (10975 Oval Park Dr, Ste D201)",4.285714286,3.689189189,4.118556701,3.293103448,4.22826087
+AquaKnox (3355 Las Vegas Blvd),4.222408027,4.269736842,4.012096774,3,4.314393939
+The Church Public Inn (17219 Highway 50),0,5,3,0,4.375
+Samba (3400 Las Vegas Blvd S),2.633928571,2.567307692,2.994318182,2.79245283,3.256666667
+Maria's Family Restaurant (22578 Lake Shore Blvd),2,0,4,3.5,3
+Osaka P83 (16049B N Arrowhead Fountains Ctr Dr),3.428571429,3.454545455,3.019230769,3.616666667,3.768656716
+John Q's Steakhouse (55 Public Sq),3.708333333,3.333333333,3.125,2.5625,3.5
+"The Toston (35 Karachi Drive, Unit 39)",5,0,0,0,4
+Outback Steakhouse (8595 Market St),1.975,2.409090909,2.238095238,2.166666667,2.208333333
+Wagon Wheel (36457 N Cave Creek Rd),3.888888889,4.5,3.4,3.842105263,4
+Wildfire Steakhouse & Wine Bar (3438 Yonge Street),2.783950617,2.941176471,3.323529412,2.515151515,3.161971831
+Airport Gate Steak and Grill (6575 Airport Road),0,0,0,1.5,2.5
+Lone Star Steakhouse (24941 Country Club Blvd),2.1875,2,2.3125,1.1,2.071428571
+Girves Brown Derby (9230 State Rt 14),4.189189189,3.125,2.558823529,3.5,3.5
+SouthPark Grill (4300 Congress St),4.08,2.944444444,3.346153846,2.083333333,3.613636364
+Delmonico's Steakhouse (6001 Quarry Ln),4.142857143,4.071428571,3.585365854,3.5,4.094339623
+Yard House (11011 W Charleston Blvd),3.243559719,4.057768924,4.010638298,3.362831858,4.013559322
+The Keg Steakhouse & Bar (3300 Rutherford Road),3.947368421,2.923076923,3.791666667,3.6,4.014705882
+"Morton's The Steakhouse (4 Avenue Road, Prince Arthur)",4.146551724,3.9,3.333333333,2.826923077,3.9
+George's Chop House (1109 Fourier Dr),2,0,0,0,2
+Cioppino Restaurant & Cigar Bar (2350 Railroad St),4.298701299,3.970588235,4.350877193,3.076923077,4.176767677
+LongHorn Steakhouse (16641 Statesville Rd),4.15625,3,3.428571429,3.166666667,3.083333333
+"Simon Kitchen and Bar (Hard Rock Hotel and Casino, 4455 Paradise Rd)",4.25,4.5,4,3.75,3.642857143
+Biagio Ristorante (155 King St E),4.111111111,5,3.25,4,4.421052632
+LongHorn Steakhouse (45 Montrose West Ave),2.5,3.125,3,3,3.666666667
+Santa Fe Station Hotel & Casino (4949 N Rancho Dr),2.660714286,3.314285714,2.575949367,2.75,3.277173913
+Outback Steakhouse (1734 E Southern Ave),3.160714286,3.34,2.754098361,2.642857143,3.692307692
+LongHorn Steakhouse (418 S Gammon Rd),3.192307692,3.6875,3.55,3.363636364,3.388888889
+Outback Steakhouse (16400 Northcross Dr),2.69047619,3.055555556,3,2.153846154,2.5625
+Bâton Rouge Steakhouse & Bar (3035 Boulevard le Carrefour),4.34375,3.4,3.357142857,2.4,3.454545455
+"Homesteads Grill and Taphouse (751 Hwy 16 N, Ste K)",2.159090909,2.75,2.363636364,2.1,2.934782609
+Cork's and Stubby's (209 S Main St),3.111111111,3.1,2.0625,2.833333333,2.842105263
+Pearl Diver (100 Adelaide Street E),4.355450237,4.08974359,4.387323944,3.614942529,4.282926829
+Bardi's Steak House (56 York St),2.933333333,4.5,3.333333333,2.625,3.5
+Applebee's Grill + Bar (9616 E Independence Blvd),2.571428571,1.7,2.666666667,3.166666667,1.904761905
+B & M Restaurant (120 Rue Saint-Viateur O),3.5,0,3.3125,3.785714286,4.157894737
+Austin's Smokin' Steakhouse (6535 Wilson Mills Rd),3,1.625,2.666666667,2.333333333,2.56
+Maggie Oakes (426 Place Jacques Cartier),3.127272727,3.75,3.857142857,3.107142857,3.170212766
+Yellowtail Sushi & Steak (18255 N 83rd Ave),3.548192771,4.078947368,3.922413793,3.558823529,3.954545455
+Baxter's American Grille (100 Trade Centre Dr),4.54,3.85,4.136363636,3.625,4.395833333
+The  Landmark Grill (Plaza Hotel),2.166666667,3,2.75,2.5,2.55
+Ruth's Chris Steak House (2137 Deming Way),3.160714286,2.333333333,3.52173913,2.484375,3.435185185
+3 Margaritas (5171 W Bell Rd),2.5,5,2.7,0,3.611111111
+Caffe Siena (230 N College St),4.0125,3.6,3.642857143,3.647058824,3.85106383
+Ric's Grill (6620 36 Street NE),2,2,0,2,2
+Outback Steakhouse (8405 Ikea Blvd),3.08,3.55,3.03125,2.666666667,2.806122449
+Montana's BBQ & Bar (3255 Rutherford Rd),2.269230769,2.1,2.208333333,1,3
+Halo Restaurant & Lounge (13226 MacLeod Trail SE),4.178571429,3.083333333,3.818181818,3.25,3.818181818
+DC Steak House (98 S San Marcos),3.469230769,3.550847458,3.665322581,2.841463415,3.666666667
+Prankster's Too (7919 E Thomas Rd),3.161764706,3.680555556,3.104651163,3.053571429,3.25
+Outback Steakhouse (1400 Market Place Blvd),4.03125,3,4.5,4,4.46875
+Ah-So (6033 W Bell Rd),4.15,3.861111111,3.915254237,3.666666667,4.121212121
+Texas Roadhouse (5086 South Power Rd),3.50617284,2.58,3.253731343,3.555555556,3.947368421
+Vargas (690 Boulevard René Levesque O),3.375,2.9,3.5,3.4,3.677419355
+Brooklin Pour House (1 Way Street),2.333333333,1,1,1.25,1.75
+Fogo de Chão Brazilian Steakhouse (525 Smithfield St),3.72972973,3.304347826,3.954545455,2.5625,4.279411765
+Texas Roadhouse (15255 West Mcdowell Rd),3.982142857,2.961538462,3.373626374,3.205882353,3.71875
+Boston Steak House (4443 Sheppard Avenue E),1.555555556,1.928571429,2.55,1.5625,2.133333333
+"Moxie's Grill & Bar (4950 Yonge St, Unit 105)",2.466666667,2.763157895,2.270833333,2.222222222,3
+Harold's Corral (6895 E Cave Creek Rd),3.564285714,3.227848101,3.402777778,3.012820513,3.666666667
+The Keg Steakhouse & Bar (70 Gillingham Dr),3.625,3.666666667,3.222222222,3.1875,3.807692308
+The Mission at Minder Binder (715 S Mcclintock Dr),3.539473684,3,4.027272727,3.423076923,3.255681818
+Bâton Rouge Steakhouse & Bar (2005 Winston Park Drive),3.617647059,4.625,3.791666667,1.5,3.526315789
+Central Grille (8525 N Central Ave),3.333333333,4,3.666666667,2.5,2.6
+Square 22 Restaurant and Bar (13485 Pearl Rd),3.8625,3.870967742,3.826923077,2.82,3.20212766
+Moxie's Grill & Bar (2959 Argentia Road),3.333333333,4,3.681818182,3.5,3.983870968
+Bella Vista (1204 Grandview Ave),3.431034483,2.5,2.815789474,1.916666667,3.428571429
+Black Ox Bistro (1780 Markham Road),3.698275862,3.671875,2.954545455,2.840909091,3.294871795
+Sonoma Cellar (1301 W Sunset Rd),4.077380952,3.904761905,3.673913043,3.140625,3.988235294
+Goen Yakiniku (328 Highway 7 E),4,0,3,2.833333333,2.9375
+Steak ’n Shake (9700 S South Blvd),2.5,3.071428571,2.59375,3.35,3.226190476
+Moxie's Grill & Bar (120 Stewart Green SW),3.875,2.5,2.9,0,3.136363636
+The Keg Steakhouse + Bar - Estate Drive (60 Estate Drive),4.208333333,4.3125,3.277777778,3.045454545,3.813953488
+Ditka's (1 Robinson Plz),3.902777778,3.196428571,3.298245614,3.023255814,4.025510204
+Ferris Steak House (8700 Detroit Ave),3.125,4.125,3,1.5,4
+"Philly Steak and Pizza Express (9400 S Eastern Ave, Unit 106A)",1.75,2.5,2,2,0
+Samurai Sushi and Steakhouse (16670 Royalton Rd),2.988095238,2.9375,3.214285714,3.529411765,3.78358209
+Applebee's Grill + Bar (909 E Broadway),2.387931034,2.459459459,2.094594595,2.227272727,2.25
+Steak Frites (95 Boulevard de Mortagne),4,0,5,0,3.166666667
+Old Homestead Steakhouse (3570 Las Vegas Blvd S),4.173758865,3.905405405,4.041958042,2.755102041,4.033482143
+Burger de Ville (59 Westminster Nord),3.09375,3.833333333,2.96875,3.25,3.5625
+Charleston's (1623 S Stapley Dr),4.180232558,4.151785714,3.831632653,3.155555556,4.266666667
+Old Stone Steakhouse (23 S Main St),3.793478261,3.633333333,3.541666667,2.944444444,3.212121212
+Moxie's Grill & Bar (888 7 Ave SW),3.229166667,3.954545455,4,2.944444444,3
+Brown Derby (5370 Mayfield Rd),3.681818182,2.7,2.333333333,3.3125,3.657894737
+LongHorn Steakhouse (14127 W Bell Rd),3.103773585,3.402173913,3.488095238,2.965517241,3.754032258
+Joe's Philly Steak & More (8018 N 19th Ave),3.357142857,3,3.25,3.071428571,3.885714286
+Prime (3600 S Las Vegas Blvd),4.21471173,3.584821429,3.935546875,3.085365854,4.15106383
+Hibachi Japan Steak House (1803 Front St),2.736842105,2.25,2.5,1.833333333,3.013888889
+Rokerij (6335 N 16th St),3.859756098,3.425925926,3.982758621,3.143518519,4.168965517
+Le Steak Frites (200 Boulevard Saint-Laurent),3.8,4.166666667,3.833333333,2.8,2.625
+"Outback Steakhouse (3785 Las Vegas Blvd S, Fl 4)",3.710144928,2.9375,3.277777778,3.075,3.317460317
+Mr. Lucky's 24-7 (4455 Paradise Rd),2.737288136,2.773109244,3.383587786,2.99197861,2.932150313
+Applebee's Grill + Bar (2121 N Prospect),1.65625,1.944444444,2,2.25,1.5
+Applebee's Neighborhood Grill & Bar (8710 S Tryon St),1.833333333,1.625,1.714285714,0,2.547619048
+Moxie's Grill & Bar (17390 Yonge St),3.909090909,2.4,3.333333333,2.5,3.666666667
+Angá (3425A Rue Saint-Denis),4,0,0,0,3.666666667
+Center Cut Steakhouse (3555 Las Vegas Blvd S),2.926470588,3.220588235,3.325396825,2.272727273,2.630252101
+Saga Hibachi Steakhouse & Sushi Bar (301 S Hills Village Mall),3.018518519,3.05,2.547619048,2.7,2.963414634
+Kelly's Prime Steak & Seafood (3900 S Paradise Rd),2.84375,2.214285714,2.5,1.875,2.54
+Cannon's Chop House (1900 Main St),3.723684211,2.6,2.944444444,2.5,2.95
+Jekyll's Kitchen (17 River St),3.139534884,3.481818182,3.830645161,3.22,3.929245283
+Buffalo Chip Saloon & Steakhouse (6823 E Cave Creek Rd),3.063380282,2.927777778,3.825892857,3.148148148,3.162303665
+Steak Supreme (4033 Gordon Baker Road),3.333333333,2.9,2.7,2,2.416666667
+Arizona Grand Resort & Spa (8000 Arizona Grand Pkwy),3.254901961,2.689655172,3.292682927,2.392857143,2.734463277
+Mastro's City Hall (6991 E Camelback Rd),4.404713115,4.106164384,4.287769784,3.147321429,4.307608696
+Sizzler (10460 N 28th Dr),2.769230769,3.5,2.333333333,3.5,2.825
+VooDoo Steakhouse (3700 W Flamingo Road),3.601796407,3.708955224,3.222891566,2.671052632,3.846590909
+Eddie V's Prime Seafood (15323 N Scottsdale Rd),4.357142857,4.326923077,4.251633987,3.254237288,4.381294964
+Hyakumi Japanese Restaurant & Sushi Bar (3570 Las Vegas Blvd S),4.5,0,2.5,3.5,4
+Sonny's Steakhouse (4550 E Cactus Rd),3,0,1.5,3.5,2.75
+Hy's Steakhouse & Cocktail Bar (120 Adelaide Street W),3.871428571,3.21875,3.75,2.814814815,3.528846154
+"Brazz Carvery & Brazilian Steakhouse (500 S College St, Ste 150)",3.694915254,2.846153846,3.630952381,3.043478261,3.746478873
+"Montana's BBQ & Bar (4916 130 Ave Se, Unit 400)",2.75,2.2,3.5,4.5,3.176470588
+The Cabin of Willowick (28810 Lakeshore Blvd),3.575,2.666666667,4.307692308,3.029411765,3.867647059
+Houston (1739 Avenue Pierre-Peladeau),3.277777778,3.5,3.833333333,2.1,2.363636364
+Toko Japanese Steak House (1619 State Rt 303),4.461538462,4.714285714,4.261904762,3.5,4.284482759
+Day & Night Firewood Steakhouse (2 Fenton Rd),2.742857143,3.5,2.217391304,2.558823529,3.083333333
+Houston Avenue Bar & Grill (2042 Rue Peel),2.833333333,3.666666667,1,4,3.25
+"L'Aurochs (9395 Boulevard Leduc, Suite 5)",3.5,3,5,2.2,2.7
+Aristotle's Steak & Seafood (6905 Millcreek Drive),3.954545455,3,2.666666667,3.5,3.863636364
+Tony Roma's (3010 23rd Street NE),2.708333333,3.5,2.777777778,3.111111111,2.9375
+Lone Star Steakhouse & Saloon (10004 N 26th Dr),3.25,3,2.833333333,0,3.5
+Canyon Creek (1900 The Queensway),3.454545455,3.142857143,3.590909091,2.5,3.28125
+Tony Roma's (620 E Sahara Ave),2.571428571,2.666666667,3.125,2.833333333,2.375
+"Preston's Steakhouse (8700 E Pinnacle Peak Rd, Ste 115)",4.262626263,4.25,3.136363636,3.62195122,4.320754717
+Outback Steakhouse (6950 Ridge Rd),2.5,2.5,2.636363636,2.4,2.791666667
+Barbies (1343 Michèle-Bohec),0,0,4,0,4.5
+"Dickens Cafe (9425 Leslie St, Unit 6-7)",3.18,3.111111111,3.058823529,3.105263158,3.722222222
+Roy's Restaurant (620 E Flamingo Rd),4.40625,4.321917808,4.351351351,3.7265625,4.30866426
+BLT Steak (3645 Las Vegas Blvd S),3.940789474,3.84939759,3.63,3.140625,4.241007194
+Coal Hill Steakhouse at Grandview Saloon (1212 Grandview Ave),1.607142857,2.142857143,2.090909091,1.5,2.12
+The Horny Toad (6738 E Cave Creek Rd),3.016666667,2.555555556,3.657534247,2.277777778,3.264957265
+Fiesta Henderson (777 W Lake Mead Pkwy),2.467213115,2.972222222,2.305882353,2.598039216,3.086956522
+"Steaks R US (2740 S Alma School Rd, Ste 5)",0,0,3.5,0,0
+"Rock & Vine Bar and Grill (8900 E Pinnacle Peak Rd, Ste B1)",3.555555556,1.833333333,3.75,2.166666667,3.53125
+Lakeside (3131 Las Vegas Blvd S),3.576555024,3.860655738,3.921487603,2.756410256,3.835907336
+Legends Steak (860 North Riverview),3.5,2,2.25,3,3.25
+L'Gros Luxe Mile End (150 Rue Bernard O),3.527777778,4,3.5,3.34375,3.323529412
+"BOA Steakhouse (The Forum Shops At Caesars, 3500 Las Vegas Blvd S)",4.218085106,4.401785714,4.390909091,3.294117647,4.224719101
+Applebee's Grill + Bar (508 Howe Ave),3.2,1.928571429,2.5,2.5,2.233333333
+The Keg Steakhouse + Bar - Oakville (300 Hays Blvd),3.041666667,2.916666667,3.111111111,3.5,3.617647059
+Ranchman's Cookhouse & Dancehall (9615 Macleod Trail SW),1,2.5,2.714285714,2.5,3
+Montana Mike's (1601 N Cunningham Ave),3,1.5,3.214285714,3.166666667,2
+Medium Rare (5241 Dundas Street W),3.3,0,3.125,1.5,4
+Vertigo (3305 Avenue des Grandes Tourelles),2.5,4,1,2.5,1
+"Steak Escape East Towne Mall (213 East Towne Mall, FC4)",5,0,0,0,0
+"Chick Fiesta (699 Markham Road, Unit 1)",3.227272727,0,3.928571429,3.318181818,4.321428571
+Montana's BBQ & Bar (9065 Airport Rd),2.382352941,2.2,3.166666667,2.5,3.294117647
+Ruths Chris Steak House (6 PPG Pl),3.89516129,4.19047619,4.076923077,3.357142857,4.236363636
+Full Of Bull Famous Roast Beef (534 State St),3.5,2.3,2.8,1.875,3.052631579
+Sumo Japanese Steakhouse & Sushi Bar (1745 Parkside Dr),3.085714286,3.53125,3.148648649,3.06,3.087719298
+Bolero (6920 MacLeod Trail S),3.306451613,3.75,3.470588235,3.178571429,3.897058824
+Baldwins Steakhouse & Bar (124 Wellington Street E),3.666666667,2.875,3,0,3.416666667
+Applebee's Grill + Bar (3440 William Penn Hwy),2.318181818,2.2,2.545454545,2.25,2.1875
+The Carmel Room (221 N Rampart Blvd),3.528571429,2.9,3,2.3,3.720588235
+Klondike (100 Rue Sainte-Anne),2.538461538,2.75,1.75,3,2.545454545
+Tony Roma's (2040 N Rainbow Blvd),2.583333333,3.125,3.285714286,2.4,2.607142857
+Applebee's Grill + Bar (4800 Ridge Rd - RPS),3.166666667,2.875,3,4,3.692307692
+"Outback Steakhouse (7000 E Mayo Blvd, Ste 24)",2.740384615,2.933333333,2.826086957,2.75,2.770491803
+Da Silva (926 Rue Sainte-Catherine Est),2.96875,2,3.25,4,3.055555556
+Donatos Fox Chapel (46 Fox Chapel Rd),3.321428571,3.428571429,3.28125,2.527777778,3.348484848
+Morels French Steakhouse & Bistro (3325 Las Vegas Blvd S),3.170886076,3.042105263,3.756830601,2.594262295,3.191616766
+The Guild (200 8 Avenue SW),2.743243243,2.869565217,2.866666667,2.636363636,2.574468085
+Barbies (1175 chemin du Tremblay),3,0,4,0,4
+The Rib House Restaurant (1239 Woodbine Avenue),3,3.5,3.5,4,4
+Twist by Pierre Gagnaire (3752 Las Vegas Blvd S),4.391891892,4.769230769,4.5,3.15,4.477272727
+Oceana Seafood Steakhouse & Bar (101 - 7th Street SW),2.875,3,2.357142857,1.666666667,3.6
+Applebee's Grill + Bar (1635 W Craig Rd),3.466216216,3.224137931,2.815789474,2.722222222,3.14673913
+Outback Steakhouse (8507 Concord Mills Blvd),3.393939394,3.416666667,2.775862069,3,3.325581395
+The Keg Steakhouse + Bar - Macleod Trail (7104 Macleod Trail Sth.),3.692307692,4.25,3.904761905,2.555555556,3.770833333
+"Trophy's Steakhouse (7215 S Power Rd, Ste 107)",2.706896552,2.666666667,3.285714286,2.416666667,2.554054054
+Outback Steakhouse (14225 W Grand Ave),3.271929825,3.175,2.365853659,1.95,3.23943662
+Moxie's Grill & Bar (55 Reading Court),3.28125,4.045454545,2.823529412,2.115384615,3.846153846
+"Prime (Windsor Arms Hotel, 18 St Thomas St)",3.346153846,4,3.05,2.583333333,3.4375
+The Miller Tavern (31 Bay Street),2.955882353,3.5,2.818181818,2.4375,2.422222222
+Hyde Park Prime Steakhouse (123 W Prospect Ave),4.532258065,4.555555556,4.59375,3.5,3.816666667
+Moishe's Steakhouse (3961 Boulevard St-Laurent),3.879310345,4.184210526,4.221311475,3.2375,3.66875
+Desert Dave's (13407 N La Montana Dr),3.307692308,3.5,3.375,2.722222222,3.785714286
+Le Biftheque (6705 De La Cote-De-Liesse Ch),2.928571429,1.625,2.944444444,2.833333333,3.227272727
+Montana's BBQ & Bar (5031 Hurontario St),2.166666667,1.7,2.2,2.75,2.176470588
+"Ace Of Steaks (5825 W Sahara Ave, Ste M)",4.5625,0,3.9375,3.0625,4.529411765
+Reata Pass Steakhouse (27500 N Alma School Pkwy),2.75,0,2.75,3.5,2.5
+Stakeout Dining Room & Lounge (5402 Main Street),4.346153846,0,3.375,3.416666667,3.863636364
+T-Bones Chophouse (11011 W Charleston Blvd),3.994071146,3.661458333,3.03968254,2.975,3.93442623
+"Dressler's - Charlotte (1100-E Metropolitan Ave, Ste 125-E)",4.476470588,3.90625,4.440909091,3.313953488,4.328282828
+Ranch House (5614 Wilkinson Blvd),3.5,0,3.4,2.75,3.5
+Saltlik Calgary (101 8 Avenue SW),3.942857143,3.675,3.95,2.708333333,3.96031746
+Outback Steakhouse (8250 Macedonia Commons Blvd),2.068181818,1.576923077,2.131578947,2.25,1.859375
+Marvelous Asian Cuisine (15440 Bayview Avenue),4.2,3.875,4,3.071428571,3.388888889
+Table 31 (130 Landings Dr),4.026315789,3.916666667,4.1,3.5,3.84375
+Rodizio Grill - Mesa (1840 S Val Vista Dr),3.19205298,3.146341463,3.685185185,3.422413793,4.134146341
+Applebee's Grill + Bar (6259 E Southern Ave),2.705882353,3.40625,2.340909091,2.5,2.659574468
+Rio 40 Restaurant (1256 Saint Clair Avenue W),4.204545455,3.9375,4.4,3.722222222,4.265625
+Beef 'N Bottle (4538 S Blvd),3.904580153,3.75,3.463414634,2.9,3.613095238
+"Bâton Rouge (163 Quarry Park Boulevard SE, Unit 1200)",1.916666667,1.5,2.5,2.5,3
+"The Keg Steakhouse & Bar (4600-130 Avenue SE, Ste 100)",4.315789474,4.611111111,3.733333333,3.5,4.8
+Rodizio Grill (5989 Canal Rd),2.307692308,1.571428571,2.555555556,2.8,2.294117647
+"Yolie's Brazilian Steak House (3900 Paradise Rd, Ste Z)",2.84,2.25,3.25,2.961538462,2.672727273
+"Ruth's Chris Steak House (3900 Paradise Rd, Ste 121)",3.257575758,3.583333333,3.708333333,2.071428571,3.767857143
+"Bogey's Steak & Seafood (Las Sendas Golf Club, 7555 E Eagle Crest Dr)",4,0,2.666666667,2,3.6
+Bratenahl Place Bistro (One Bratenahl Pl),4.375,4.833333333,4.416666667,1.5,4
+Les Sottises (1777 Rue du Centre),3.833333333,5,5,4.5,4.166666667
+Beer Park (3655 S Las Vegas Blvd),2.942528736,3.858895706,3.637795276,3,3.976833977
+Mantini's Woodfired (1209 E Carson St),2.611111111,3.5,3.571428571,1.875,2.3
+Outback Steakhouse (7380 Las Vegas Blvd S),3.373376623,3.684210526,3.131578947,3.0125,3.834507042
+LongHorn Steakhouse (2475 N 75th Ave),3.798076923,2.884615385,3.609756098,3.416666667,3.867924528
+Pittsburgh Chop House (5305 Campbells Run Rd),4.5,3.5,2.5,2.5,4.5
+Lakeside Grill Estrella (17665 W Elliot Rd),4.5,5,5,5,5
+Bâton Rouge Steakhouse & Bar (218 Yonge Street),2.418367347,3.205882353,2.203125,2.5,2.778688525
+Johnny Delmonico's Steakhouse (130 S Pinckney St),3.822033898,3.520833333,3.590909091,3.037037037,3.424528302
+Lanning's Restaurant (826 N Cleveland Massillon Rd),4.137931034,3.666666667,3.184210526,3.25,3.54
+"Ah-So Sushi & Steak (16610 N 75th Ave, Ste 104)",3.0390625,2.66,2.490384615,2.722222222,2.447916667
+Mulligans Pub and Grill (38244 Colorado Ave),3.666666667,2.944444444,2.833333333,3.681818182,3.115384615
+Mastro's Ocean Club (3720 S Las Vegas Blvd),4.530940594,4.439534884,4.390160183,3.477124183,4.493464052
+"Charley's Steakery (Square One Shopping Center, 100 City Centre Drive)",0,2,2,2.5,3
+Riverbleu Steak & Fish (14142 Rivergate Pkwy),3.636363636,3.52173913,3.192307692,2.5625,2.933333333
+Dragonfly Lounge (1865 W 25th St),4.076923077,4.176470588,4.033333333,2.9375,4
+Blackstone Steakhouse and Grill (6415 Erin Mills Pkwy),4.407407407,2.916666667,4.147058824,4.055555556,4.1875
+Pauls Pizza Steakhouse & Lounge (528 2nd Avenue SE),3.85,4,3.928571429,2.875,3.866666667
+Fire + Spice (1600 S 52st St),3.3,2.428571429,3.454545455,3.555555556,2.87037037
+Outback Steakhouse (1950 N Rainbow Blvd),3.524752475,2.661290323,2.605263158,2.625,3.379310345
+Bâton Rouge Steakhouse & Bar (7999 Boulevard des Galeries d'Anjou),3.933333333,2.875,2.5,1,2.9
+Quaker Steak & Lube (7834 Reynolds Rd),3.272727273,3.409090909,3.318181818,3.055555556,3.326086957
+Don & Charlie's (7501 E Camelback Rd),4.255597015,3.845588235,4.057603687,2.955882353,4.210810811
+Logan's Roadhouse (2649 S Market St),2.981481481,3.023809524,2.756097561,3.0625,2.69047619
+"Shula's Steak House (5040 West Wild Horse Pass Blvd, Wild Horse Pass Hotel & Casino)",2.959349593,3.042857143,3.393939394,2.608108108,3.228571429
+Watertower Chop House (109 W Main St),3.339285714,2.066666667,2.75,2.818181818,2.442307692
+Pink Pony (3831 N Scottsdale Rd),3.275862069,3.391304348,3.519607843,3.018518519,3.194174757
+Hyde Park Prime Steakhouse (21 Main St),4.166666667,3.9,4.04,3.722222222,3.703703704
+Cornerstone (4000 W Flamingo Rd),3.840909091,4.28,3.818181818,3.267857143,3.909090909
+Moxie's Grill & Bar (8001 11 St SE),3,2.5,2.1,3.5,2.916666667
+Houston Avenue Bar & Grill (33 Yonge Street),2.575757576,3.071428571,3.147058824,2.666666667,2.921875
+Japanese Village (317 10 Avenue SW),2.613636364,2.75,3.405405405,2.958333333,3.758064516
+Fleming's Prime Steakhouse & Wine Bar (750 N Midvale Blvd),3.284722222,3.704545455,3.341463415,2.522727273,3.063492063
+Senior's Steak House (1397 Yonge Street),0,0,0,3.5,0
+The Keg Steakhouse + Bar - Laval (3035 Boulevard Le Carrefour),4.277777778,3.5,3.3,3,4
+The Keg Steakhouse + Bar (2240 E Williams Field Rd),4.222772277,3.907692308,3.979166667,2.645833333,3.876744186
+Canyon Creek (430 Progress Avenue),3.39,2.777777778,3.378378378,2.891304348,3.581395349
+"Gyubee Japanese BBQ - Markham (7100 Woodbine Avenue, Unit 100)",3.929447853,4,3.003246753,2.97260274,3.793478261
+Dover Pizza & Steak House (5268 Memorial Dr NE),0,0,5,0,4.5
+Reserve Inn (30 W Streetsboro St),4,0,4,0,5
+Madisons N Y Bar & Grill (11590 Boul De Salaberry),3.291666667,3.166666667,2.5,2.625,3.75
+Pinot Brasserie (3355 Las Vegas Blvd),3.18902439,3.25,4.2125,2.706896552,3.411392405
+"Don B's Steakhouse (Fitzgerald's Casino, 301 Fremont St)",4.666666667,4.75,3.666666667,4.5,3.833333333
+"DragonFire Steakhouse (Galleria Mall, 1500 Washington Rd)",2.3125,1.666666667,1.6,2,2.131578947
+Fogo de Chão Brazilian Steakhouse (360 E Flamingo Rd),4.518272425,4.421768707,3.893518519,3.429487179,4.52975048
+Nakato (8500 Pineville Matthews Rd),3.6,4.166666667,3.725806452,2.807692308,3.848684211
+Kincaid's Classic American Dining (2 S 3rd St),3.548192771,3.307692308,3.306122449,2.583333333,3.4625
+Outback Steakhouse (25 McMurray Rd),3.5,3.4,2.804347826,2.666666667,2.866666667
+Center Stage Restaurant (1 S Main St),5,0,4,0,4
+LongHorn Steakhouse (8115 Old Mallard Creek Rd),3.866666667,3.625,2.613636364,2.714285714,3.210526316
+Ruth's Chris Steak House (6000 Fairview Rd),4.480263158,4.204545455,4.089285714,3.02173913,4.4
+"Moxie's Grill & Bar (1800 Sheppard Ave E, 2044)",3.088235294,3.659090909,2.76744186,2.6875,3.276315789
+The Black Iron Grille (7291 State Rte 43),3.62,3.214285714,3.666666667,3.363636364,3.014705882
+Bull & Barrister Draft House and Grille (3615 Mount Holly-Huntersville Rd),1.825,2.4,2.166666667,1.166666667,2.239130435
+"Pepper Walk (5955 Latimer Drive, Unit 7)",3.534482759,3.4,2.6875,2.972222222,3.466666667
+Cowgirls Bar & Grill (1733 N Dysart Rd),1,1.833333333,1.5,1,1.1
+The Old Fashioned (23 N Pinckney St),4.076837416,4.213216958,4.293877551,3.704741379,4.265294118
+The Keg Steakhouse + Bar - Yonge + Eglinton (2201 Yonge St),3.527272727,3,3.807692308,2.807692308,3.882978723
+Outback Steakhouse (501 N New Hope Rd),2.411764706,2.909090909,2.441176471,2,2.6
+Red Rocks Cafe- Charlotte (4223-8 Providence Rd),3.807692308,3.708333333,3.767241379,3.479166667,3.854651163
+Outback Steakhouse (4715 E Cactus Rd),3.240963855,3.269230769,2.87,2.815789474,2.994382022
+Steak ’n Shake (17325 Loraine Ave),2.09375,1.3,1.888888889,4,2.36
+CUT by Wolfgang Puck (3325 S Las Vegas Blvd),4.31416957,4.159624413,4.272040302,3.225524476,4.240432612
+Gabriel's Restaurant Bar & Grill (6501 Mississauga Road),4.681818182,4,4.666666667,3.75,4.321428571
+Bill Johnson's Big Apple Restaurants (2906 W Fairmount Ave),3.5,0,2.5,2.75,3.5
+Dessy B's Steak House (4901 S Eastern Ave),3.935714286,3.192307692,3.202702703,3.409090909,3.955696203
+Chillfire Bar & Grill (121-A Cross Center Dr),3.458762887,4.064516129,3.836363636,3.032258065,3.959090909
+Madrina Italian Steakhouse and Lounge (3735 Rundlehorn Way NE),0,3.5,0,0,2
+Canyon Creek (156 Front Street W),3.446428571,4.08,3.336956522,3.266666667,4.051136364
+"Choplin's Restaurant (19700 One Norman Blvd, Ste C)",4.271604938,4,4.324074074,3.275862069,4.227678571
+Texas Roadhouse (1605 S Stapley Dr),4.129310345,4.162162162,3.781512605,3.510204082,3.715976331
+Hy's Steakhouse & Cocktail Bar (8th Avenue and 3rd Street),4.4875,3.875,4.5,3.136363636,4.431034483
+Top Gun  Burgers (251 Augusta Avenue),3.482758621,2.916666667,4.016666667,3.113636364,3.793478261
+Nemo Grille (36976 Detroit Rd),4.682539683,4,3.931818182,3.568181818,4.53030303
+La Belle et la Boeuf (3150 Avenue des Grandes-Tourelles),3.5,3.9,2.75,4.5,3.9
+Braised Bull Steakhouse (7750 Markham Road),3.375,0,3,2.5,2.666666667
+The Bottom Line (22 Front Street W),2.86,2.892857143,2.692307692,2,3.095238095
+Restaurant le Rio (352 Rue Principale),3.571428571,0,3,3.5,4.4
+Top of Binion's Steakhouse (128 Fremont St),4,3.7875,4.134782609,3.006578947,3.882716049
+"Kokomo's Steak & Seafood (The Mirage, 3400 Las Vegas Blvd S)",4.055555556,3.611111111,4.174418605,2.979166667,3.583333333
+Bandera (3821 N Scottsdale Rd),4.132930514,4.107142857,4.058974359,3.107692308,4.10380117
+Saddle Ranch Chop House (9375 W Coyotes Blvd),2.321691176,2.147577093,2.291866029,2.217647059,2.418956044
+Feeney's Restaurant and Bar (6314 N 12th St),4.385714286,3.898148148,4.299145299,3.295081967,4.397058824
+"The Arrogant Butcher (2 E Jefferson St, Ste 150)",4.235328638,3.897560976,4.104330709,3.00896861,3.985549133
+Rise & Shine - A Steak & Egg Place (10690 Southern Highlands Pkwy),4.237315876,3.785714286,4.14208243,3.236111111,4.184210526
+The Keg Steakhouse + Bar (25 The West Mall),3.224137931,4.541666667,3.977272727,3,4.033333333
+The Tillerman (2245 E Flamingo Rd),2.944444444,3.333333333,4.071428571,2.5,3.5
+"Le Bifthèque (20 Boulevard de Montargne, Local K)",2.625,0,4,1,3
+Edge Steakhouse (3000 Paradise Rd),4.405660377,4.111111111,4.333333333,3.066666667,4.362745098
+Steak on a Stone (30111 Lorain Rd),4.7,4,3.944444444,4,3.1
+Firebirds Wood Fired Grill (16067 N Arrowhead Fountains Ctr Dr),4.242152466,3.233695652,3.69760479,3.536764706,4.229249012
+The Keg Steakhouse + Bar - Leslie (1977 Leslie Street),4.323943662,3.6875,4.270833333,3.9,4.134920635
+Yard House (6593 Las Vegas Blvd S),4.188235294,4.089285714,4.061090226,3.488479263,4.184239734
+Redwood Bar and Grill (12 E Ogden Ave),3.75,3.923076923,3.953125,3.58,3.875
+Girves Brown Derby (5051 Eastpointe Dr),4.30952381,4.5,3.764705882,3.136363636,4.096153846
+Dunn's Famous (3800 Boulevard Saint-Martin Ouest),4.25,4.5,2.1,3.5,3.222222222
+Smith Bros. (880 Warden Avenue),4.392857143,4.390625,4.280612245,3.505952381,4.261904762
+The Keg Steakhouse + Bar (21001 N Tatum Blvd),4.302816901,3.771186441,3.892857143,3.216216216,3.920930233
+Applebee's Grill + Bar (1200 State Rte 303),2.8,3,3.214285714,3,2.818181818
+Applebee's Grill + Bar (9225 Vista Way),2.25,1,2,0,2.75
+"Les Artistes Steakhouse (Paris Las Vegas, 3655 Las Vegas Blvd S)",3.239130435,4,3.35,2,2.980769231
+40 Westt (2305 Autoroute Transcanada),4.424242424,4,3.65,2.928571429,4.26
+The Captain's Cap (1218 N Hwy 16),2.625,1,3.125,3.666666667,2.214285714
+Clearview Restaurant & Pub (2446 N Cleveland-Massillon Rd),3.676470588,3.928571429,3.178571429,2.9,4
+Swine & Sow Wine & Ale House (131 6th Avenue SW),3.375,3.5,3.875,2.375,3.75
+Wasabi Japanese Steak House (150 W Montrose Ave),3.178571429,2.333333333,3.402439024,3.382352941,3.857142857
+Essence and Herbs (15 Via Bel Canto),4.37804878,2.666666667,3.526315789,3.333333333,4.511363636
+Plato (2835 37th Street SW),3.7,3,3,0,2.714285714
+Alexander's Steakhouse (202 W Anthony Dr),2.8,3.5,3.413043478,2.346153846,3.482142857
+C-Town Grill & Bar (1003 W Royalton Rd),4,4.75,4.5,4.5,4.5
+Tony Roma's (555 N Stephanie St),3.196428571,3.5,3.555555556,3.15,3.865384615
+"Rare 120 (Hard Rock Hotel and Casino, 4455 Paradise Rd)",2.810810811,2.22,2.869565217,2.642857143,3.152777778
+Cabo Mexican Restaurant (1306 W Sunset Rd),2.676470588,2.9,2.930555556,3.09375,3.162162162
+"Restaurant Charlie (The Palazzo, 3325 Las Vegas Blvd S)",3.347826087,4.083333333,2.884615385,2.9,3.65
+T-Bone Steakhouse (10037 S 19th Ave),2.561643836,2.217391304,3.470930233,2.71875,3.095505618
+Restaurant Da Vinci (1180 Rue Bishop),4.458333333,4,4.576923077,2.166666667,4.1
+Blackhorn Steakhouse (251 Ellesmere Road),3.6,0,3.666666667,3.5,3.958333333
+Second Street Grill (200 Fremont St),4.173469388,3.75,4.288461538,3.619047619,3.922413793
+FATZ Cafe (6081 Bayfield Pkwy),3.619047619,2.928571429,3.222222222,2.25,3.181818182
+Houston Steaks & Ribs (33 Yonge St),1.861111111,3.222222222,2.142857143,1.777777778,2.392857143
+Texas Roadhouse (204 N. Country Fair Dr),3.84375,2.954545455,3.328947368,3.761904762,3.894736842
+Parisco Cafe (215 Fort York Boulevard),3.142857143,3,3.333333333,3.714285714,3.928571429
+The Palm Charlotte (6705-B Phillips Pl Ct),3.740963855,3.5,3.229166667,2.555555556,4.075
+T-Bones On the Lake (3990 Charlotte Hwy),2.171428571,2.508064516,2.408163265,1.833333333,2.420529801
+"Miki's Restaurant (1819 Matthews Township Pkwy, Ste 600)",3.6,0,4.117647059,3.75,4.3
+Texas Roadhouse (1155 Washington Pike),3.155172414,3.25,2.24,3.333333333,3.859375
+Atria's Restaurant (4059 Washington Rd),4.041666667,3.083333333,3.583333333,3.714285714,3.602941176
+Guadalajara (4111 Boulder Hwy),2.6,3,2.166666667,2.9375,3.065789474
+"Vila Algarve (6120 W Tropicana Ave, Ste A 11/12)",4.260869565,4.416666667,4.5,3.282608696,4.396428571
+The Lariat Restaurant and Lounge (37220 Mule Train Rd),3.6,1.642857143,2.35,2.166666667,3.529411765
+Les Deux Fours (4552 Rue Saint-Denis),4.25,0,0,0,0
+Zorro's Steakhouse (7171 Torbram Road),4.170731707,4.5,4.386363636,3.115384615,4.117647059
+Marron Bistro (948 Eglinton Avenue W),3.333333333,5,5,1,3.833333333
+Ruth's Chris Steak House (4561 W Flamingo Rd),3.625,0,3.785714286,0,3.25
+The Captain's Club (34820 Vine St),2.730769231,2.6,2.642857143,2.5,3.78125
+The Charcoal Room (2411 W Sahara Ave),4.292207792,4.5,3.930555556,3.756410256,3.922535211
+Chop Steakhouse & Bar (801 Dixon Rd),3.844155844,3.589285714,4.01,3.347826087,3.869318182
+Carrabba's Italian Grill (1060 N 54th St),3.96835443,2.7,3.616071429,2.685185185,4.015151515
+Shinto Japanese Steakhouse & Sushi Bar (17070 Pearl Rd),3.042372881,3.5625,3.595238095,2.742424242,3.536082474
+Pacers Sports Bar & Grille (9055 Mentor Ave),3.545454545,3.5,3.4,3.416666667,4
+Steak & Cheese Factory (50 Gerrard Street E),2.666666667,2.5,2.333333333,2.277777778,2
+Litchfield's (300 E Wigwam Blvd),3.75,3.107142857,3.276595745,2.869565217,3.962765957
+22 Church Steak House (22 Church St),3.5,3,4,0,3.5
+Waddells Longhorn Corral (1629 N 195th Ave),2.421052632,2.45,2.34375,1.804347826,2.577777778
+Prime Rib Loft (4500 W Tropicana Ave),3.671641791,3.325,3.921686747,3.214285714,3.376
+Armstrong's (5299 Grove Rd),3.72972973,3.346153846,3.472972973,3.5,3.936619718
+Windsor Arms Hotel (18 St Thomas Street),3.314814815,3.333333333,2.25,2.5,3.02173913
+Chejoys (355 Boulevard Curé-Labelle),1,0,3,2.5,3.5
+Bourbon & Bones (4200 N Scottsdale Rd),3.766233766,4.090909091,3.579787234,2.543859649,4.183908046
+Fleming's Prime Steakhouse - Scottsdale (6333 N Scottsdale Rd),4.162790698,3.793650794,3.732,2.990384615,4.090909091
+LVH - Las Vegas Hotel & Casino (3000 Paradise Rd),2.895669291,3.256521739,3.092375367,2.581730769,2.941717791
+"Ruth's Chris Steak House (200 Public Sq, Ste 104)",3.862068966,3.5,3.961538462,3,3.714285714
+LongHorn Steakhouse (2101 N Prospect Ave),2.983870968,2.6,2.630434783,2.75,3.3375
+Pickle Bill's Lobster House (101 River St),2.5,3,2.481132075,2.472222222,2.960526316
+Wendel Clark's (36 Main Street N),2.8,1.5625,2,2,1.75
+Fellini's Ristorante (2000 Las Vegas Blvd S),4.28,3.5,3.83,3.738636364,4.28968254
+"Bâton Rouge Steakhouse & Bar (230 Commerce Valley Drive E, Unit 7)",3.092307692,3.555555556,3.302631579,3.105263158,3.206896552
+Eiffel Tower (3655 Las Vegas Blvd S),4.363856589,4.123778502,4.168907563,3.1625,4.247402078
+Nick's Steak House & Pizza (2711 14 Street SW),3.5,0,3.5,5,5
+"Applebee's Grill + Bar (2101 Greentree Rd, The Bourse Shops)",3.541666667,3.416666667,3.8,3.5,2.647058824
+Charleston's (17001 N. Scottsdale Rd.),4.127586207,3.238636364,3.882978723,3.4375,4.186708861
+"Larsen's Grill (1300 W Sunset Rd, Ste 2950)",4.528301887,4.291666667,3.733333333,3.365384615,3.770642202
+Red Carpet (6707 Elbow Drive SW),0,1,0,4.5,1
+Creo's Steakhouse (938 E Tallmadge Ave),2.5,1.833333333,4,1,1.8125
+Bâton Rouge Steakhouse & Bar (180 Rue Sainte-Catherine O),2.971698113,3.111111111,3.204545455,2.48,2.618181818
+Barberian's Steak House (7 Elm Street),4.090517241,3.975,4.28125,2.9609375,3.734567901
+Herbs & Rye (3713 W Sahara Ave),4.111213235,4.46113307,4.192998205,3.493315508,4.222151899
+Lone Star Steakhouse & Saloon (1290 E. Flamingo Rd),4.833333333,4,4.5,4,3.7
+Applebee's Grill + Bar (1240 Concord Pkwy N),2.3125,2.166666667,2.0625,3.75,2.65
+Fuego Steakhouse & Poissons Frais (6136 Chemin Cote Saint-Luc),5,0,0,1.5,0
+Bairrada Churrasqueira (1560 Dundas Street W),5,0,3,4.5,3.375
+Red Square Restaurant & Vodka Lounge (3950 Las Vegas Blvd S),3.486238532,3.846289753,3.790322581,3.056179775,4.058282209
+McCormick & Schmick's Seafood & Steaks (335 Hughes Center Dr),3.353448276,2.7,2.689873418,2.454545455,2.873076923
+The Keg Steakhouse + Bar - York Street (165 York Street),4.368644068,4.355263158,4.359649123,3.742424242,4.252427184
+Mediterraneo Steakhouse (1873 Rue Saint-Louis),4.285714286,5,4.25,2.75,5
+La Luce Ristorante (4377 Steeles Avenue W),3.166666667,4.75,3.9,0,3.6
+"Cadillac Ranch (2000 E Rio Salado Pkwy, Ste 2105)",1.872340426,2.035294118,1.863013699,2.08974359,1.92173913
+Nove Ristorante (8383 Weston Road),4.583333333,5,4,3,4.136363636
+"Saga Hibachi Steakhouse & Sushi Bar (1800 Main St, Ste 400)",2.833333333,2.5,2.4,3.5,2.333333333
+Tornado Steak House (116 S Hamilton St),3.946524064,4.376923077,4.174556213,3.448863636,4.2
+Small Rooms (1181 Finch Avenue W),3.75,0,4.5,3.5,4.6875
+"Sakura Sushi & Steakhouse (7000 E Mayo Blvd, Ste 1090)",2.282051282,2.03125,2.772727273,2.288461538,2.697674419
+Montana's BBQ & Bar (1007 The Queensway),3.19047619,3.166666667,2.769230769,2.8125,2.640625
+Donovan's Steak & Chop House (3101 E Camelback Rd),4.058685446,3.056603774,2.965217391,2.838461538,3.833333333
+Las Brassas Asados y Mariscos (1725 N Nellis Blvd),4,4,3.5,0,3.25
+"Carvalho's Brazilian Kitchen (23623 N Scottsdale Rd, Ste D7)",4.56969697,4.567567568,4.598684211,3.777777778,4.730769231
+Château d'Or (21 Chemin de la Grande-Côte),4.5,0,5,4.5,5
+A Cut Above Restaurant (2275 Kyle Canyon Rd),2.35,1.333333333,2.875,1.3,2.357142857
+Rex's Innkeeper (301 N Century Ave),2.772727273,3.5,3.166666667,2.388888889,2.5625
+La Tradicion Restaurant (1420 N 24th St),4.833333333,0,4,0,4.666666667
+Rodeo Brazilian Steakhouse (95 Danforth Avenue),2.612903226,2.863636364,3.357142857,2.454545455,2.76744186
+"Trib Steakhouse (100-118 8th Avenue SW, Suite 100)",4,3.571428571,3.8125,4.25,4.03125
+Wonder Bar Steakhouse (222 E Olin Ave),3.921052632,3.54,3.875,3.265625,3.87704918
+Koto Ramen (508 E Green Street),2.083333333,0,2.166666667,1.875,1.583333333
+Applebee's Grill + Bar (20705 Ctr Ridge Rd),3.083333333,3.5,3.115384615,3.7,3.323529412
+Love Me Tender - Steakhouse (1968 Queen Street E),3.875,4.5,3.2,1.583333333,3.5
+Cru (585 Avenue Victoria),5,0,0,0,0
+Shake Rabble & Roll (939 Dundas Street W),4.25,0,3.6875,4.5,4.388888889
+"Gladiator Burger & Steak (6039 Erin Mills Parkway, Unit 2)",3.25,2,3.25,3,4.1
+The Abbey Pub & Steak House (989 College Street),1.9,2.625,2.2,3,2.222222222
+Rusty Anchor (1148 Main Ave),4.125,3.125,3.882352941,2.95,3.909090909
+The Wrangler (2140 N Las Vegas Blvd),4.75,3,5,4.166666667,3.875
+"Miro Spanish Grille (12239 N Community House Rd, Ste 102)",4.489795918,4.071428571,4.035714286,4,4.240909091
+Webb Custom Kitchen (182 S South St),4.725490196,4.306818182,4.495192308,3.961538462,4.691810345
+Arizona Grill Lounge (215 Carlingview Drive),2.069444444,2.543478261,1.903846154,2.2,1.888888889
+Tom Colicchio's Craftsteak (3799 Las Vegas Blvd S),4.271914894,4.094501718,4.023134328,3.123056995,4.206008584
+Ken Stewart's Grille (1970 W Market St),4.317073171,4,3.055555556,2.380952381,4.198275862
+Ruth's Chris Steak House (145 Richmond Street W),3.629807692,3.75,3.675438596,2.589285714,3.862637363
+"Cuisine & Wine Bistro - Chandler (4991 S Alma School Rd, Ste 101)",4.693548387,4,4.6,3.333333333,4.704545455
+Yokoso Japanese Steakhouse (153 E Bridge St),2.753846154,2.363636364,2.9921875,2.741935484,2.735955056
+Hibachi Teppanyaki & Bar (550 Wellington Street W),4.121621622,3.357142857,3.705882353,3.538461538,3.65
+Meritage - An Urban Tavern (5350 East Marriott Drive),3.139705882,3.403846154,3.151515152,2.547619048,3.871621622
+STK Toronto (153 Yorkville Ave.),3.058441558,2.445945946,3.175675676,2.277777778,2.831168831
+Tops Pizza & Sports Bar (5602 4 Street NW),2.25,4,3,2,3
+T-Bones Sizzling Steaks & Burgers Drive-In Restaurant (2540 Eglinton Avenue E),3.323529412,3.071428571,2.594594595,2.866071429,3.166666667
+Blake's Seafood Restaurant and Bar (9 Main St),3.875,4,4.5,3.5,4
+Manzetti's Tavern (6401 Morrison Blvd),3.791666667,5,3.277777778,2.666666667,3
+Morton's The Steakhouse (1600 W 2nd St),3.520408163,3.214285714,3.645833333,2.65,3.083333333
+Chili's (2000 Airport Road NE),2.604166667,2.4375,2.333333333,2.928571429,2.453125
+The Groove Cheesesteak Co (2000 E Carson St),2.416666667,3.5,2.833333333,2.318181818,2.397058824
+Applebee's Grill + Bar (13756 W Bell Rd),2.916666667,2.275,2.35,3.1,2.46875
+Alan Albert's (3763 Las Vegas Blvd S),3.875,4,3.666666667,0,4.9
+"Miami Nights Grill, Bar, & Lounge (857 Columbia Rd)",1.681818182,2.1,2.6,1.75,2.166666667
+Harbour 60 (60 Harbour Street),3.927927928,3.717391304,3.580357143,2.717741935,3.899082569
+"Yagyu Yakiniku (4355 W Spring Mountain Rd, Ste 107)",3.586956522,2.833333333,4.013888889,3.196969697,3.952702703
+Halo (12445 Lake Fraiser Drive),2.555555556,3.5,2.2,2.75,2.714285714
+Tavolo 72 (7230 Engle Rd),3.5,3.25,3.75,3,3.611111111
+Pittsburgh Rare (300 W Station Sq Dr),1.9,2.166666667,2.875,1.833333333,2.25
+Redwater Rustic Grille (9223 Macleod Trail SW),4.277777778,4,4.210526316,3.4,3.797297297
+Chuck's Roadhouse Bar And Grill (125 Pedersen Drive),3.666666667,2,1.75,3.307692308,3.176470588
+Katana (3229 W Liberty Ave),2.662790698,3.25,2.8046875,3.386363636,3.485507246
+Charleston's (1040 N 54th St),4.399305556,3.95,4.376712329,3.378787879,4.303797468
+"IL Forno Italian Restaurant (6606 E Mckellips Rd, Ste 104)",2.943396226,2.28125,3.193877551,2.692307692,2.975
+Outback Steakhouse (8671 W Sahara Ave),3.113445378,2.818181818,2.638554217,2.954545455,3.65530303
+"Jjanga Steak & Sushi (6125 S Fort Apache Rd, Ste 200)",4.318823529,4.146153846,4.124125874,3.807017544,4.353947368
+Applebee's Grill + Bar (5658 Mayfield Rd),2.029411765,2.166666667,2.428571429,2.5,2.147058824
+Lone Star Texas Grill (156 West Drive),3.1,3,2.75,3,2.8
+Redwood Steakhouse (12 E Ogden Ave),4.271428571,3.4,4.454545455,4.289473684,4.580645161
+"Bulldog Beer House (8 Place du Commerce, Suite 100)",4.25,0,0,0,3
+Ichi Ban Japanese Restaurant (9897 W McDowell Rd),1.840909091,1.625,2,1.653846154,2.205882353
+Wildfire Steakhouse & Wine Bar (8 Colborne Street),3.911111111,3.615384615,4.333333333,3.0625,3.99
+Char Bar No 7 (7312 Town View Dr),3.357142857,2.977272727,2.78,2.5,3.41509434
+Porta Bella Italian Restaurant (425 N Frances St),2.794871795,2,2.8,2.363636364,2.802816901
+Tomo Sushi & Hibachi (1293 W 9th St),2.494252874,2.62195122,2.123076923,2.318181818,2.811926606
+Ruth's Chris Steak House (222 S Tryon St),4.211956522,3.704545455,3.475409836,2.685185185,4.128865979
+Applebee's Grill + Bar (17771 Spark Ctr),3.34375,1.875,2.5,3.0625,3.157894737
+Sizzler (5060 W Indian School Rd),3.5,3.642857143,2.857142857,2.642857143,2.791666667
+Smokey Bones Bar & Fire Grill (8760 JM Keynes Dr),2.35,3.25,1.75,2.5,1.911764706
+Iberia-Sur Restaurant (839 College Street),4.5,5,3.333333333,4.5,3.642857143
+XS Lounge and Grill (6620 36 St NE),2.1,3.75,3.8,3.5,3.5
+Joe Vicari's Andiamo Italian Steakhouse (301 Fremont St),4.610410095,4.655555556,3.977272727,3.551282051,4.525684932
+L'Entrecôte Saint-Jean (2022 Rue Peel),4.046511628,4,3.545454545,2.972222222,2.984375
+"Grape Wine Bistro (8900 E Pinnacle Peak Rd, Ste B1)",4.038461538,4.2,3.8,3.6,3.791666667
+Moxie's Grill & Bar (70 University Ave),3.612903226,3.236842105,3.318181818,3.25,3.074468085
+Beantown Tavern (130 Matthews Station St),2.214285714,2.97826087,2.893939394,2.875,2.807692308
+Texas Roadhouse (14175 W Grand Ave),3.619047619,3.847826087,3.276923077,3.590909091,3.46875
+The Keg Steakhouse + Bar - Crowfoot (130 Crowfoot Terrace NW),3.930555556,3.722222222,3.3,2.944444444,4.03030303
+Cleveland Chop (824 W St Clair Ave),3.52688172,3.776785714,3.967213115,3.130434783,3.833333333
+"Modern Steak (7014 E Camelback Rd, Suite 1433)",4.133333333,4.303921569,4.236486486,3.155172414,4.095588235
+Palace Station Hotel & Casino (2411 W Sahara Ave),2.786549708,3.549180328,3,2.448387097,2.768518519
+LongHorn Steakhouse (9150 Covenant Ave),3.555555556,3.1875,3.153846154,3.5,3.875
+Peppercorn Steak and Seafood (2290 Markham Road),4.625,4,3.166666667,5,3.416666667
+Turtle Jack's Muskoka Grill (108 Courtney Park Drive E),3.730769231,3.692307692,3.520833333,2.333333333,3.609375
+Nick's Steak & Tap House (182 S South St),3.155172414,2.541666667,2.78125,3.071428571,3.017241379
+Montana's BBQ & Bar (2530 Hyde Park Gate),3,3.25,3,2.666666667,2.785714286
+Nao (90 Avenue Road),4.045454545,3,3.75,2.7,3.28125
+Beff Pan Steak And Roll House (100 Steeles Avenue W),4.56,4.75,4.176470588,3.3,3.736111111
+Red Violin (95 Danforth Avenue),3.5,4,3,2.416666667,3.388888889
+Rib Eye Jack's Ale House (6531 Mississauga Road),3.047619048,3.625,3.045454545,3.7,3.64
+Geri's Olde Philadelphia Restaurant (3430 E Tropicana Ave),3.444444444,5,3.477272727,3,4.111111111
+"Straight From Philly Steakout (1659 W Warm Springs Rd, Ste 100)",4.153846154,4.125,3.602272727,3.705882353,4.1015625
+Carve Prime Rib (2121 East Craig Rd),4.5,0,5,4,4.125
+Applebee's Grill + Bar (2720 W Bell Rd),2.116071429,2.371428571,2.318181818,2.571428571,2.309859155
+Embassy Suites by Hilton Charlotte (4800 S Tryon St),3.525,4.178571429,2.740740741,3.571428571,3.40625
+The Restaurant At Los Prados (5150 Los Prados Cir),4.5,0,4.625,4,5
+"LeVilla Chophouse (1800 4 Street SW, Suite 150)",4.25,0,2.333333333,4.5,4.142857143
+Moxie's Grill & Bar (10606 Southport Road SW),3.208333333,2.166666667,1.8,2.833333333,2.552631579
+The School Fine Dining (4121 Avenue 14th),4.020833333,5,2,3,3.763157895
+"Moxie's Grill & Bar (3625 Shaganappi Trail NW, 13)",2.203703704,2.678571429,1.976190476,2.05,2
+The Keg Steakhouse + Bar - Mount Royal (1101 - 5th Street S.W.),2.7,2,2.666666667,3,2.083333333
+Tony Roma's (6712 MacLeod Trail SE),2.5625,3,2.375,1,2.2
+Grandview Saloon (1212 Grandview Ave),2.655555556,2.76744186,3.073529412,2.571428571,3.264705882
+Applebee's Grill + Bar (8700 J. W Clay),1.338709677,1.222222222,1.211538462,1.5,1.362068966
+"Texas de Brazil (240 W Station Square Dr, Ste D1)",3.9,4,3.536144578,3.191489362,3.870535714
+Yard House (9401 West Westgate Blvd),3.385204082,3.772727273,3.829431438,3.158536585,3.533222591
+"P.J. Clarke's New York Chophouse (The Forum Shops At Caesars Palace, 3500 S Las Vegas Blvd)",3.80952381,3.734042553,3.992957746,3.21875,3.95212766
+"Medici Cafe and Terrace (Ravella Hotel, 1610 Lake Las Vegas Pkwy)",4.666666667,1.5,4.375,4.333333333,4
+"Montana's BBQ & Bar (2555 32 St Ne, Unit 100)",2.361111111,2.1875,1.861111111,3.333333333,2.333333333
+Ariel's Grill Point (1601 E Bell Rd),5,0,3.375,2.75,4.071428571
+Mariscos Aguachiles Culichi (2462 N Las Vegas Blvd),3.852941176,4.833333333,4,3.3,4.318181818
+MR MIKES SteakhouseCasual (130 Sierra Springs Dr),2.944444444,2.833333333,2.333333333,3.166666667,2.423076923
+Kabuto Japanese Steakhouse And Sushi Bar (7724 Pineville-Matthews Rd),3.043478261,3.222222222,2.861111111,2.607142857,3.155172414
+"Ohjah Japanese Steakhouse (2051 N Rainbow Blvd, Ste 102)",4.47080292,4.022727273,4.303191489,4.012987013,4.286057692
+XO Prime Steaks (500 W St Clair Ave),3.909090909,3.625,3.669642857,2.555555556,2.994117647
+Sevens Steakhouse (4100 Paradise Rd),4.833333333,0,4.75,5,3.7
+Madison's NY Grill & Bar (552 Voie de Desserte de la Route 132),3,0,4.5,3.5,4.25
+Eddie Merlot's (23207 N Scottsdale Rd),3.884146341,4.051724138,3.733333333,2.76,3.967105263
+Steak And Stone (2613 N Thunderbird Cir),4.086956522,2.782608696,3.680555556,2.850574713,4.128514056
+CK's Steak House (11080 Concord-Hambden Rd),2.318181818,2,2.666666667,1,2.4375
+Kings Corner (754 King Street W),0,0,4.25,0,4.6
+Outback Steakhouse (3411 Las Vegas Blvd S),3.338888889,3.951612903,3.47,3.235294118,3.221052632
+Canyon Creek (299 Rathburn Road West),3.602272727,4,3.5,3,4.011627907
+Chef Marc's Trattoria (8615 W Sahara Ave),4.524793388,3.947368421,4.692307692,3.555555556,4.679347826
+"8oz Korean Steak House (4545 Spring Mountain Rd, Ste B105)",4.779605263,4.181818182,4.386666667,3.904761905,4.713793103
+Outback Steakhouse (9801 N Black Canyon Hwy),3.359649123,2.894736842,3.407894737,2.6,3.142857143
+Ditka's Restaurant (15091 S Komatke Ln),3.866666667,2.681818182,2.625,2.785714286,3.467741935
+"Bâton Rouge Steakhouse & Bar (582 Chemain de Touraine, Suite 900)",4,0,3,0,3
+Golden Steer Steakhouse (308 W Sahara Ave),4.100840336,3.697368421,3.889589905,2.720588235,4.068445476
+Cowboy Steak Chicken Ribs (9615 Bailey Rd),3.983870968,3.625,2.702702703,2.636363636,3.710144928
+Fuji Japan (2455 Cherry Rd),3.629032258,4,4.076923077,3.928571429,3.902439024
+"Odyssey Pizza and Steakhouse (3814 Bow Trail S, Suite3)",3.25,1,3,5,5
+"Houston Avenue Bar & Grill - Quartier DIX30 (9200 Boulevard Leduc, Suite 150)",2.5,3.333333333,2,3.5,2.85
+"The Flame Steakhouse (El Cortez Hotel and Casino, 600 Fremont St)",3.888888889,4,3.884615385,3.147058824,3.526315789
+Prince Japanese Steak House (5555 Eglinton Avenue W),3.5,4,2.970588235,2.8,3.928571429
+Hoss's Steak & Sea House (4813 William Penn Hwy),3.166666667,0,3.571428571,3.142857143,3.433333333
+Wendel Clark's Classic Grill and Sports Lounge (370 Dundas Street E),2.333333333,4.5,1.5,1.625,2.625
+Minas Brazilian Steakhouse (136 2 Street SW),3.813953488,3.214285714,3.547619048,3.785714286,4.568181818
+LongHorn Steakhouse (980 N 54th St),3.276470588,3.883333333,3.591549296,2.642857143,3.775
+Stetson Scottsdale Bar (7318 E Stetson Dr),3.5,1,3,4.5,3.625
+Scratch House Restaurant (1300 Arizona St),3.906976744,2.75,3.217391304,2.777777778,3.227272727
+Smoky's Club (3005 University Ave),2.428571429,3.604166667,3.44,2.5,3.116666667
+Village Tavern (4201 Congress St),3.510309278,3.914893617,3.506097561,3.37037037,4.061403509
+Lancer's Bar & Lounge (1425 East 21st St),0,0,0,0,4.75
+The Keg (3130 Argentia Rd),4.465517241,4.7,4.558823529,3.428571429,4.28
+Ichiban Hibachi Steakhouse (983 Freeport Rd),3.45,4.055555556,3.705882353,2.821428571,3.739130435
+Applebee's Grill + Bar (1020 High St),3.642857143,4,3,1.166666667,3.107142857
+STK Las Vegas (3708 Las Vegas Blvd S),4.088365243,4.035369775,4.019565217,2.679425837,4.093645485
+Applebee's Grill + Bar (9330 W Nern Ave),2.382978723,2.129032258,1.972972973,2.055555556,2.508064516
+Manhattan Classic Grill (3200 Dufferin St),2.25,1.75,2.166666667,3,1
+The Monkey Bar (3353 Yonge Street),4.588235294,5,4.428571429,3.785714286,4.282608696
+Applebee's Grill + Bar (4605 W Charleston Blvd),1.980392157,2.203703704,1.706521739,2.722222222,2.201492537
+The Steakhouse at The Pass (2800 S Boulder Hwy),4.5,4.5,4.666666667,4.166666667,4.166666667
+Cover Girls Gentlemen's Club & Steakhouse (3355 Procyon St),5,3.5,4,2.75,0
+Steak Frites St-paul (16985 Autoroute 40),3.5,0,0,0,0
+Charlie Palmer Steak (3960 S Las Vegas Blvd),4.11589404,3.423076923,4.022900763,3.039473684,3.893939394
+Applebee's Grill + Bar (4115 Pearl Rd),3.6,2.166666667,2,3,3.333333333
+Border Crossing (1814 36 Street SE),4,3,3,0,3
+1909 Taverne Moderne (1280 Avenue des Canadiens-de-Montréal),2.5,2.5,2.2,2.1,2.583333333
+Bâton Rouge Steakhouse & Bar (3370 Avenue des Grandes Tourelles),3,0,0,2,3
+Ichiban Hibachi Steakhouse & Sushi Bar (3971 Washington Rd),3.714285714,3.75,3.125,2.75,3.714285714
+The Capital Grille (301 5th Ave),3.914893617,3.888888889,3.609195402,3.15625,4.136054422
+FireRock Steakhouse (5990 Centennial Center Blvd),2.973105134,3.388535032,2.950746269,3.288990826,3.633466135
+"Moxie's Grill & Bar (3401 Dufferin Street, Unit 30)",2.482758621,3.283333333,2.977272727,2.529411765,2.917910448
+Viana Sol (5428 Boulevard Cousineau),5,0,5,0,5
+Texas de Brazil (2952 N Stemmons Fwy),4.218362283,4.312903226,4.181402439,3.489473684,4.294247788
+Indigo Crow Restaurant & Bar (7100 E Cave Creek Rd),3.906593407,3.793478261,3.420454545,3.033333333,4.170833333
+Texas de Brazil (174 Union St),3.867924528,3.45,4.109756098,3,3.833333333
+MR MIKES SteakhouseCasual (12650 Symons Valley Rd NW),4.5,4.5,4.25,4,4.5
+New Orleans Seafood & Steakhouse (267 Scarlett Road),4.836734694,4.25,4.793103448,4.25,4.87037037
+Copacabana Brazilian Steakhouse (230 Adelaide Street W),3.727586207,2.911764706,3.478448276,3.041666667,3.816129032
+"Quaker Steak & Lube (1000 Airport Blvd, concourse A)",3.289473684,4.125,2.5,3.833333333,2.911764706
+Steak ’n Shake (7020 Aurora Rd),2.461538462,0,1.444444444,2.4,1.739130435
+Ginza Sushi House (1105 Carnegie Ave),3.85,4.75,4.05,3.3,3.96875
+Applebee's (830 W Warner Rd),2.6875,2.375,4.2,2.5,2.416666667
+Bazaar Meat by José Andrés (2535 S Las Vegas Blvd),4.160798122,4.374233129,4.36163522,3.143678161,4.309574468
+Rawhide Steakhouse & Saloon (5700 W N Loop Rd),2.529411765,1.444444444,2.8,2.4,2.314814815
+40 Northh (235 Rue Principale),4.75,3,4.666666667,4.5,3.8
+Brazas Brazilian Grill (4508 E Independence Blvd),2.25,0,1.125,1,2.5
+T2C Smokehouse (),0,0,3.5,0,4
+Lone Star Steakhouse (6111 Mountain View Rd),3.722222222,3.75,2.8125,3.5,2.857142857
+Chop Steakhouse & Bar (41 Colossus Dr),3.462962963,3,3.642857143,2.357142857,3.362068966
+Le Saint-Bock (1749 Rue Saint-Denis),4.103174603,4.075757576,3.602564103,3.56,4.109589041
+"Great Steak (1300 W Sunset Rd, Ste 2841, Space 2841)",1.277777778,1.5,1.4,1,1.333333333
+Ohjah Japanese Steakhouse (239 N Pecos Rd),3.965346535,3.586956522,4.204081633,3.88,4.394444444
+Outback Steakhouse (1319 River Run Ct),3.515625,1.1,2.708333333,1.666666667,3.383333333
+Bavette's Steakhouse & Bar (3770 Las Vegas Blvd S),4.757246377,4.6640625,4.611940299,3.782608696,4.75
+Commander's Palace (3663 Las Vegas Blvd S),4.892857143,5,4.916666667,4.25,4.892857143
+1909 Taverne Moderne (1950 Rue Claude-Gagné),4,4,0,3.5,4
+Applebee's Grill + Bar (4920 William Penn Hwy),2.875,3,3.25,0,2.590909091
+"Sushi Tower & Steakhouse (4145 S Grand Canyon Dr, Ste 104)",3.819148936,3.181818182,4.145454545,3.592105263,3.929577465
+Brasa Grill (1300 W 9th St),3.428571429,3.514285714,3.538461538,2.5,3.195945946
+The Keg Steakhouse + Bar - Montreal (25 Rue St. Paul E),3.930232558,4.035714286,3.933333333,3.45,4.424050633
+Scotch 80 Prime (4321 West Flamingo Rd),4.638461538,3.941176471,3.916666667,3.5625,4.548387097
+Steak ’n Shake (650 E Waterfront Dr),1.59375,1.681818182,1.792682927,2.277777778,2.046153846
+Mastro's Ocean Club (15045 N Kierland Blvd),4.28125,4.347457627,4.010152284,2.77027027,4.126074499
+Showtime Bistro (2761 Markham Road),3.607142857,4,3.875,2.416666667,3.770833333
+Kobe Sizzlers (808 Britannia W),3.716666667,3.625,3.260869565,2.285714286,3.225
+Moxies Grill and Bar (1207 Blvd Robert Bourassa),3.481481481,3.735294118,3.1,2.75,3.875
+"Moxie's Grill & Bar (730 100 City Centre Dr, Unit 2)",2.8,3.283783784,2.5,2.444444444,2.943548387
+Applebee's Grill + Bar (10305 S Eastern Ave),2.320895522,2.6875,2.06097561,1.944444444,2.777173913
+Twin Rivers (5301 Hwy 557),1.5,1,1.214285714,1.8,1.571428571
+"The Bistro (1312 Nevada Hwy, Ste D)",3.461538462,4.416666667,3.472222222,3.428571429,2.983870968
+Iguana Mack's (1371 N Alma School Rd),2.51,2.455882353,2.904761905,2.892857143,3.385135135
+Yamato (751 N Hwy 16),2.375,1,1.333333333,1,1.571428571
+Applebee's Grill + Bar (500 N Nellis Blvd),2.567307692,2.7,2.414634146,2.785714286,2.909090909
+Applebee's Grill + Bar (6871 Pearl Rd),3,0,2.1,2,2.333333333
+"Bertolucci Brazilian Steakhouse (2895 N Green Valley Pkwy, Ste A)",3.171568627,2.861111111,2.605882353,2.154545455,3.076335878
+The Fire Pit (6020 Hurontario Street),2.590909091,3.4,3.411764706,2.4375,3.212121212
+Carmen's Steak House (26 Alexander Street),3.807692308,0,3.833333333,2.25,3.851351351
+The Cove (5301 Hwy 557),3.333333333,3.555555556,3.388888889,3.5,3.548387097
+Giuseppe's Italian Grille (2630 W Horizon Ridge Pkwy),3.598958333,3.263157895,3.576923077,3.590909091,3.891791045
+The Keg Steakhouse + Bar (927 Dixon Road),4.566666667,4.113636364,4.337837838,3.642857143,4.396226415
+Sake Express (1327 E Franklin Blvd),3.48,3.75,2.85,3.807692308,3.627118644
+LongHorn Steakhouse (1434 S Alma School Rd),3.036458333,3.722222222,3.176470588,2.80952381,3.213483146
+Moe's Bar et Grill (21 Avenue de la Gare),4.5,0,0,3,4.5
+Outback Steakhouse (6100 Rockside Pl),2.083333333,1.785714286,2.607142857,2.75,2.242424242
+La Castile Steak House & Seafood Restaurant (2179 Dundas Street E),3.910714286,3.55,3.378378378,3.038461538,3.984375
+LongHorn Steakhouse (2117 W Roosevelt Blvd),2.857142857,3,2.588235294,3.833333333,2.777777778
+Applebee's Grill + Bar (1540 W River Rd N),2.857142857,1.375,2,3.5,3
+North 51 Steakhouse (2001 Airport Road NE),4.333333333,4,4,3.5,4
+Hank's Fine Steaks & Martinis (2300 Paseo Verde Pkwy),4.209016393,3.651960784,3.791666667,2.971910112,4.183035714
+Redwater Rustic Grille (1935 Uxbridge Drive NW),4,3.333333333,3.692307692,3.25,3.934782609
+"Silk Road Gourmet Chinese (5301 Grove Rd, Ste 1)",4.0375,2.428571429,3.833333333,3.833333333,3.679104478
+The Tulip (1606 Queen Street  E),3.358974359,1.5,2.791666667,2.982142857,2.670454545
+Cowboys Tap House And Grill (216 Edmonton Trail NE),0,0,0,0,1
+Hibachi (105 Cross Avenue),3.571428571,3.9,3,2.555555556,3.148148148
+Oakville Steakhouse (3801 S Las Vegas Blvd),3.875,3.714285714,2.9,1.875,2.586956522
+Chalks Billiards (15150 Bannister Road SE),0,2.5,4,2.5,4.166666667
+Calistoga Grill (235 Boulevard Saint-Jean),2.2,1,1,1.75,1.75
+Fazio's Restaurant (8074 Columbia Rd),5,0,1.25,0,2.1
+Steak And Stone (1026 S Gilbert Rd),3.1875,3.085714286,3.492647059,2.734693878,3.694444444
+Stonehouse Grill (24850 Center Ridge Rd),3.605263158,3.75,3.4375,3.6,3.275862069
+Shark Club Sports Bar & Grill (2493 27 Avenue NE),3.25,2.916666667,2.75,2.875,3.708333333
+BARDOT Brasserie (3730 Las Vegas Blvd S),4.228915663,4.237931034,3.935185185,3.54296875,4.372745491
+Pampa Brazilian Steakhouse (521 10 Avenue SW),3.321428571,2.5,3.852941176,2.541666667,4.05
+Atria's Restaurant (103 Federal St),2.780487805,3.25862069,2.333333333,2.4,3.483870968
+Great Scott Tavern (21801 Lakeshore Blvd),3.019230769,3.473684211,3.456521739,3.944444444,3.333333333
+Moxie's Grill & Bar (215 300 Borough Drive),2.64,2.583333333,2.265625,2.366666667,2.483606557
+Silverado Steakhouse (9777 S Las Vegas Blvd),3.637254902,3.617647059,4.03125,3.608695652,4.060240964
+Reuben's Deli & Steakhouse (1116 Rue Sainte-Catherine Ouest),4.270935961,3.885714286,4.275700935,3.075,3.64047619
+Steak Frites Saint-Paul (1014 Avenue Laurier Ouest),2.375,0,2,0,3
+Lone Star Steakhouse (2841 W. Highway 74),2.1875,1.5,1,2,2
+Applebee's Grill + Bar (2180 E Baseline Rd),2.421875,2.289473684,2.648148148,2.4375,2.680851064
+"BBQ House (1955 W Guadalupe Rd, Ste 105)",3.698630137,2.75,3.386792453,3.333333333,3.928571429
+Ruth's Chris Steak House (77 City Centre Drive),3.693877551,3,3.704545455,2.4375,3.6875
+The Capital Grille (16489 N Scottsdale Rd),4.454545455,3.861111111,4.107142857,3.115384615,4.242424242
+Lone Star Texas Grill (9301 Yonge Street),2.333333333,2.916666667,2.133333333,2.357142857,2.140625
+Le St Mark (356 Saint Charles Ouest),4.5,0,0,0,5
+Vintage Chophouse & Tavern (320 11 Avenue SW),4.371621622,3.6875,4.304347826,3.333333333,4.158333333
+Golden Corral Development (2507 W Roosevelt Blvd),3,3,0,3.666666667,3.166666667
+"Kingo Bowl (66 S Dobson Rd, Ste 112)",4.535714286,4.5,3.589285714,3.323529412,4.392857143
+Texas Roadhouse (6095 Commerce Circle),4.46,3.136363636,3.472222222,3.458333333,3.512820513
+Moxie's Grill & Bar (1331 - 17th Ave SW),2.357142857,2.166666667,1.375,0,2.428571429
+Modern Steak (107 10A Street NW),4.339285714,3.125,4.4375,3.083333333,4.153846154
+Bâton Rouge Steakhouse & Bar (520 Progress Avenue),3.333333333,2.75,3.5,1.875,2.975
+"Cortez Room (Gold Coast Hotel and Casino, 4000 W Flamingo Rd)",3.734693878,3.555555556,3.046875,3.465517241,3.08
+Firebirds Wood Fired Grill (3920 Sharon Rd),4,3.085714286,3.037313433,3.28125,3.840425532
+Quaker Steak & Lube (4900 Transportation Dr),2.68,2.857142857,2.361111111,3.833333333,2.985294118
+Applebee's Grill + Bar (3528 Hudson Dr),3,3.833333333,3,0,3.333333333
+Buck & Honeys (804 Liberty Blvd),3.126436782,2.864864865,3.088709677,2.569444444,4.015
+Texas Roadhouse (8650 Duncan Ave),2.825,4.055555556,3.5,3.5,3.733333333
+Applebee's Grill + Bar (4296 Kent Rd),2.8,0,3,3.5,3.428571429
+Montana Meat Company (6371 Centennial Center Blvd),3.106481481,3.482142857,3.405797101,3.293478261,2.867521368
+Nicky & Smitty's Deli Restaurant (1021 N Aurora Rd),3.583333333,2.833333333,3.791666667,3.916666667,3.826086957
+Open Range (1114 Edmonton Trail NE),4.45,5,3.923076923,4,3.777777778
+Quindici 15 (15 Rue Bélanger),4.0625,3,4.25,3,4.444444444
+Harry Buffalo (2119 Mentor Ave),2.52173913,2.6,2.692307692,2.5,2.75
+Hyde Park Prime Steakhouse (4073 Medina Rd),4.5,3.8125,4.09375,3.1,3.95
+Wasabi Japanese Steakhouse (3725 Orange Pl),3.086206897,3.794871795,3.517857143,3.083333333,3.726804124
+Italian Grotto (3915 N Scottsdale Rd),2.976958525,2.817567568,3.136094675,2.16,2.754617414
+Harry's Steakhouse & Banquet Center (5664 Brecksville Rd),3.028571429,2.452380952,3.178571429,3.339285714,2.868421053
+Montana's BBQ & Bar (112 Crowfoot Terr Nw),1.944444444,1.5625,1.75,2,1.75
+Applebee's Grill + Bar (8001 W Bell Rd),3.071428571,2.7,3.142857143,4.5,3.2
+VooDoo Rooftop Nightclub & Lounge (3700 W Flamingo Rd),2.898373984,3.001851852,3.133333333,2.993150685,2.831460674
+Sizzlers (460 Yonge Street),0,3.25,2.25,0,2.375
+Dallas BBQ (5350 Rue Sherbrooke Est),0,0,0,3.5,0
+Green Valley Ranch Resort & Spa (2300 Paseo Verde Pkwy),3.51171875,3.049180328,3.729372937,3.008,3.799618321
+Claim Jumper Restaurants (129 E Fremont St),2.965909091,3.397058824,3,3.162790698,3.072727273
+Les Tetes De Cochon (15 Rue Maurice-Aveline),4.208333333,3,4.75,0,5
+StripSteak (3950 S Las Vegas Blvd),4.141491396,4.070175439,3.91337386,3.073059361,4.034246575
+The Cattlebaron Alberta Steakhouse & Bar (3340 26 Street NE),3.657142857,4.3125,4.275,3.5,3.914285714
+"The Speedway Club (5555 Concord Pkwy S, Fl 6)",3.25,2.583333333,4.166666667,3.5,3.545454545
+Blackod Steak and Fish House (3479 Yonge St),2.4,0,1.125,1,2.7
+Kabuto Japanese Steakhouse and Sushi Bar (446 Tyvola Rd),2.125,3,1.666666667,2.166666667,2.681818182
+Triple Crown Bar & Grill (1252 Lawrence Avenue E),1.5,2.666666667,1.7,1.666666667,1.785714286
+Restaurant Progress (702 W Montecito Ave),4.617021277,4.884615385,4.583333333,3.285714286,4.37628866
+Applebee's Neighborhood Grill & Bar (8018 Concord Mills Blvd),1.733333333,3,1.46875,3,1.409090909
+"Via Brasil Steakhouse on South Fort Apache and Charleston (1225 S Fort Apache Rd, Ste 100)",4.276595745,3.921875,3.94858156,3.403703704,4.305626598
+Sushi Bomb (6302 Robinson Ctr Dr),4.2,4,4.5,4.2,4.2
+XXI Chophouse (21 Nashville Road),3,0,2.333333333,0,3
+The Backroom (4100 Paradise Rd),3.75,4.25,4,3.5,4
+"Camelot Steakhouse (Excalibur Hotel And Casino, 3850 Las Vegas Blvd S)",3.400763359,3.120689655,3.65,2.534482759,3.169172932
+PORT (1289 Wharf Street),3.613636364,3.592592593,2.939393939,2.583333333,3.095588235
+Black Angus Steakhouse (7606 W Bell Rd),3.61038961,2.962962963,3.534883721,2.695652174,3.005617978
+Le Vieux Shack - Resto-Bar (338 Rue Saint-Georges),2,0,2,0,0
+Morton's The Steakhouse (15233 N Kierland Blvd),3.218085106,3.016129032,3.209302326,2.404761905,3.223958333
+Steak Queen (345 Rexdale Boulevard),4.25,3.25,1,3.5,3.777777778
+Le Milsa (1560 Rue Sainte-Catherine E),1,0,3,1,5
+"Jin's Kitchen and Club (3400 S Jones Blvd, 5b)",1,5,3.714285714,1,1
+Sammy's Chophouse (3151 34 Avenue SE),4.5,0,5,4.5,4.2
+Market Street Kitchen (20825 N Pima Rd),3.756410256,3.427083333,3.310606061,2.692307692,3.633561644
+"Mesa Grill Co (4545 E McKellips Rd, Ste 108)",2.388888889,3.3,3.25,3.833333333,3.1
+Bill Johnson's Big Apple Restaurants (3757 E Van Buren St),3.279411765,3.3125,3.078125,2.791666667,3.333333333
+Canyon Creek (25 Carlson Court.),3.7,3.9375,3.30952381,3.375,3.851851852
+Applebee's Grill + Bar (2053 S Alma School Rd),3.579545455,2.529411765,2.673913043,2.7,3.353448276
+House of Lords at Sahara Hotel and Casino (2535 Las Vegas Blvd S),3.857142857,3,3.916666667,2.5,3.833333333
+Cholla Prime Steakhouse & Lounge (524 N 92nd St),4.226351351,3.913043478,4.080882353,4.13963964,4.734693878
+Saddle Ranch Chop House (4321 N Scottsdale Rd),2.903225806,3.117283951,3.307142857,2.972222222,3.161764706
+Marssa (101 Montelago Blvd),4.271929825,3.8125,3.64516129,2.727272727,3.508928571
+Serano (455 Avenue Lafleur),3,0,0,0,4
+Boulder Station Pasta Cucina (4111 Boulder Hwy),3.027777778,2.583333333,3.25,3.769230769,3.586956522
+LongHorn Steakhouse (2950 East Germann Rd),4.5,4,3,0,2.5
+Chicago Chophouse (604 8 Ave SW),3,3.8,3.6875,1.916666667,3.392857143
+FlatIron Kitchen & Taphouse (215 S Main St),3.657303371,3.814814815,3.914285714,2.362068966,3.796610169
+Applebee's Grill + Bar (5880 W Peoria Ave),2.984848485,2.55,2.672413793,2.214285714,2.607843137
+La Piazza (2525 Rue des Nations),3.125,0,0,4.5,4
+Texas De Brazil (28125 Chagrin Blvd),4.349056604,3.875,3.75,3,4.327586207
+Sea Salt Brazilian Grill (1902 W Roosevelt Blvd),4.555555556,0,4.375,4.083333333,4.346153846
+Nouveau Bistro & Lounge (7590 Fredle Dr),4.115384615,4.107142857,4.208333333,3.625,4.12
+Chima Steakhouse (139 S Tryon St),4.138157895,3.972972973,4.045138889,2.925925926,4.135714286
+Charleys Philly Steaks (620 Chestnut Commons Dr),3.666666667,0,1,1,2
+"Tony Roma's (4307-130 Avenue SE, Suite 30)",2.375,2.166666667,3,4.5,2.9375
+Mendoza's Cuisine (1121 Dundas Street E),5,4.5,4,0,3.666666667
+LongHorn Steakhouse (4585 E Cactus Rd),4.168674699,3.4375,3.47826087,3.5,3.841584158
+"Saveeda's American Bistro (5922 Weddington Rd, Ste A13)",4.454545455,5,4.6875,3.821428571,4.658536585
+"The Fifth & Terrace (225 Richmond Street W, Suite 501b)",4.108108108,3.857142857,4.421052632,2.961538462,3.8375
+"Red's Steakhouse (The Wigwam Resort and Spa, 300 Wigwam Blvd)",2.6875,1.5,3.142857143,2,2.357142857
+LongHorn Steakhouse (9557 Mentor Ave),2.78125,3.1,2.75,2.75,3.375
+Charcut Roast House (101-899 Centre Street S),3.909836066,4.051282051,4.298969072,3.283018868,4.21686747
+Parker's Grille & Tavern (32858 Walker Rd),3.732142857,3.590909091,4.238095238,3.325,3.986486486
+Outback Steakhouse (2625 W Craig Rd),3.74,2.919354839,2.377192982,3.583333333,3.344827586
+Moxie's Grill & Bar (41 Shawville Boulevard SE),2.4375,2.25,2.222222222,3.5,3.055555556
+Carolina Prime Restaurant & Steakhouse (225 E Woodlawn Rd),3.171052632,3.3125,3.907407407,3.08,3.254716981
+Windsor (3 Place du Commerce),2.25,2.166666667,2,3,2.75
+"Porter's Steakhouse (Hilton Cleveland, 3663 Park E Dr)",4.5,0,0,2.5,3.333333333
+"Joes Seafood Prime Steak & Stone Crab (3500 Las Vegas Blvd S, Ste R-05)",4.536758893,4.358247423,4.278994845,3.618421053,4.496052632
+Tessaro's (4601 Liberty Ave),4.066666667,3.935483871,3.463114754,3.53030303,4.1125
+Corkscrew Saloon (811 W Liberty St),4.25,4.416666667,4.590909091,2.84375,4.181818182
+Tokyo Hibachi & Sushi (1132 N Court St),4.088235294,2.5,4.65,4,3.863636364
+Outback Steakhouse (8338 Pineville Matthews Rd),2.861702128,2.9375,2.12962963,2.0625,3.255102041
+Chop Steakhouse & Bar (6605 Macleod Trail SW),3.326086957,2.805555556,3.56,3.3,3.811111111
+Primarily Prime Rib Restaurant (9777 S Las Vegas Blvd),3.788194444,2.865384615,4.241666667,3.49382716,3.945054945
+Trafalgar Steakhouse & Grill Restaurant (7443 Trafalgar Road),4.75,0,0,2.5,4.333333333
+"Ruth's Chris Steak House (7001 N Scottsdale Rd, Ste 290)",4.192825112,3.846153846,3.793478261,3.008333333,4.026570048
+Minder Binder (715 S Mcclintock Dr),3.078947368,2.444444444,3.147058824,3.444444444,2.602941176
+Texas Roadhouse (7341 Northcliff Ave),3.689655172,3.611111111,3.866666667,3.541666667,3.101851852
+AJ's Steakhouse (4455 Paradise Rd),2.583333333,4.5,3.75,3.75,3.5
+Tony Roma's (3010 23rd St. N.E.),3.083333333,1,2.75,1.625,2.633333333
+McCormick & Schmick's Seafood & Steaks (4335 Barclay Downs Dr),3.798507463,3.609375,3.023255814,2.74,3.49375
+Rib 'N Reef Steakhouse (8105 Boulevard Décarie),4.013888889,3.7,3.411764706,2.944444444,4.388888889
+Zero 8 (1141 Rue Bélanger),0,0,0,0,4.5
+Boeuf Cochon (255 Martigny Ouest),4.75,4.5,4.5,4,4.75
+Les Voltigeurs Restaurant (305 Boulevard Sainte-Rose),1,1,0,1,1
+"Philly Steak & Wings (1450 W Southern Ave, Ste A)",4.065217391,3.958333333,4.294117647,3.588235294,4.031914894
+"Walkers Wine Bar & Grill (2575 Dundas Street  W, Suite 1)",3.047619048,3.2,3.535714286,2.833333333,3.02173913
+Applebee's Grill + Bar (3938 Medina Rd),1.916666667,3,2.590909091,2.5,2.454545455
+The Keg Steakhouse + Bar - Calgary (320 4th Avenue SW),3.730769231,4,4.181818182,2.6,3.828125
+Steak ’n Shake (699 S Mill Ave),2.545454545,2.625,2.45,2.568965517,2.391129032
+Applebee's Grill + Bar (5010 S Fort Apache Rd),3.024390244,2.947368421,2.607142857,2.75,3.417525773
+"Toscano Italian Steakhouse (3900 S Paradise Rd, Ste F)",4.428571429,5,4,3.1,3.6
+Steak N Shake (590 Pittsburgh Mills Cir),2.25,1.75,2.2,0,2.722222222
+"The ROCK Cafe & Restaurant (Vista Landing Complex, 920 36th Street NE, Suite 140)",4.833333333,4,4.5,3.875,4.583333333
+Montana's BBQ & Bar (17450 Yonge St),1.416666667,1.857142857,1.8,1,1.5
+"Switch Steak (Encore Las Vegas, 3121 Las Vegas Blvd S)",4,3.875,3.814285714,2.863636364,3.913978495
+Pub Victoria (698 Rue Notre-Dame O),3.333333333,3,1,3.5,3.166666667
+Arashi Japan Sushi & Steak House (30006 Detroit Rd),3.151515152,3.5,2.954545455,2.826086957,3.64893617
+Anthony's Prime Steak & Seafood (12300 Las Vegas Blvd S),4.340909091,4.1,4.342105263,3.448979592,4.216312057
+"Harry's Grille & Tavern (2127 Ayrsley Town Blvd, Ste 103)",4.302083333,4.375,3.907894737,3.191176471,4.286764706
+"Caesar's Steak House (10816 MacLeod Trail SE, Suite 110)",4.666666667,3.75,4.3125,3.25,4.25
+"Atami Japan (12120 State Route 30, Ste 170)",4.115384615,3,3.75,3,4.066666667
+Gazebo Burgers & Grill (548 trafalgar Road),4.555555556,0,3.375,2.5,4.15
+Trivs (17100 Royalton Rd),4.763888889,3.4,4.45,3,4.209302326
+Taverne Of Richfield (3960 Broadview Rd),2.833333333,3.15625,3.130434783,3,3.121212121
+Montana's BBQ & Bar (2890 Major Mackenzie Dr East),2.5,2,2.8,2,2.5
+Terzetto (12300 Las Vegas Blvd S),3.818181818,4,3.75,2.9,3.866666667
+Outback Steakhouse (9395 McKnight Rd),2.5,2.214285714,2.12962963,2.583333333,1.685714286
+Chart House (129 E Fremont St),4.13125,4.182926829,4.00462963,3.066666667,3.770949721
+Silver Spur Saloon & Restaurant (6245 E Cave Creek Rd),3.444444444,1.928571429,3.142857143,2.75,2.96875
+"Del Frisco's Grille (2425 E Camelback Rd, Ste 110)",3.914634146,3.85483871,3.745901639,2.810344828,3.855855856
+Avenue 16 Kitchen & Bar (8220 Bowridge Crescent),2,1,2.5,0,2.5
+Archi's Thai Kitchen (6360 W Flamingo Rd),3.796969697,3.210526316,3.508849558,3.648648649,3.893103448
+TJ's Steakhouse (3000 Paradise Rd),4.064516129,3,3.115384615,2.928571429,4
+Watami Hibachi Steakhouse (2033 Lebanon Church Rd),5,5,4.4,3.75,4.571428571
+Cowgirls Steakhouse and Saloon (1733 N Dysart Rd),2.041666667,3.25,3.333333333,3.5,2.545454545
+Firebirds Wood Fired Grill (7716 Rea Rd),4.364779874,3.401785714,4.165178571,3.3125,4.101036269
+"Bonsai Japanese Steak & Sushi (7315 S Rainbow Blvd, Ste100)",3.627819549,2.791666667,3.861445783,3.887931034,4.425806452
+Ferris Steak House & Tavern (2589 Wooster Rd),3.85,2.3125,3.410714286,2.03125,2.755319149
+"Morton's The Steakhouse (The Shops at the Esplanade, 2501 E. Camelback Rd.)",4.066666667,4,3.5,0,3.705882353
+Donovan Steakhouse (),1.5,0,0,0,2.333333333
+Ruths Chris Steak House Toronto Airport (970 Dixon Rd),2.125,2.416666667,2.055555556,2.125,2.8
+Ichi Ban Japanese (2015 S Alma School Rd),3.666666667,3.55,2.6875,3.1,2.826923077
+Le Steak Frites (405 Rue Saint-Antoine O),3.666666667,4,3.916666667,3.25,3.421052632
+"Ah-So Sushi & Steak (15475 W McDowell Rd, Ste 105)",2.662337662,3.05,2.881355932,2.673913043,3.133333333
+Hogtown Smoke (55 Colborne Street),4.208333333,4,3.7,4.25,3.6
+"1130 The Restaurant (455 N 3rd St, Ste 1130)",3.648305085,3.4,3.419117647,3.292682927,3
+Hayashi Japanese Steakhouse (13823 W Bell Rd),2.744680851,3.314814815,3.272058824,2.596153846,2.505434783
+Lone Star Texas Grill (705 Kingston Road),2.34375,3,3.066666667,1.833333333,2.928571429
+"Kasper's Grill (3130 Driwood Ct, Unit A)",3.111111111,3,2.928571429,3.166666667,2.617647059
+"Amor de Brazil (2225 Matthews Township, Ste C)",3.9,3,3.6875,3.394736842,3.088235294
+Mon Ami Gabi (3655 Las Vegas Blvd S),4.297937868,3.877265239,4.357003891,3.641042781,4.356511165
+Claim Jumper Restaurant & Saloon (3063 W Aqua Fria Fwd),2.790816327,2.310344828,2.951612903,2.3,3.223404255
+"Hokkaido Teppanyaki Steak House (3555 S Town Center Dr, Ste 101)",4.292307692,3.375,3.798076923,3.338235294,4.310483871
+Skyline Restaurant (1426 Queen Street W),4.038461538,3.583333333,3.375,2.866666667,4.051724138
+Moxie's Grill & Bar (56 Peel Centre Drive),3.193548387,3.444444444,3.833333333,2.888888889,2.976744186
+Texas Roadhouse (1616 N. 75Th Ave),3.984693878,2.541666667,2.976190476,3.769230769,3.785714286
+TGI Fridays (4000 W Flamingo Rd),2.75,3.163934426,2.460784314,3,2.304761905
+Montana's BBQ & Bar (75 Consumers Dr),2.25,4.5,2.9,2.5,2.423076923
+The Carlton (500 Grant St),4.15625,3.566666667,3.769230769,2.833333333,3.555555556
+Boulder Station Hotel & Casino (4111 Boulder Hwy),3.121794872,3.1,2.626262626,2.910447761,3.551136364
+Gibbys (414 Rue Principale),3.333333333,0,0,3.5,3.5
+High Seas Restaurant (1086 Islington Avenue),4.722222222,3.5,4.833333333,3.5,4.444444444
+Au Vieux Duluth Restaurants (1755 Boulevard Industriel),3.166666667,2,2,1.5,2.833333333
+Bâton Rouge Steakhouse & Bar (3839 Boulevard Saint-Jean),3.2,2,3.833333333,3.5,3.55
+Applebee's Grill + Bar (2651 N 75th Ave),1.85,2.282608696,2.043478261,3,2.285714286
+BlueBlood Steakhouse (1 Austin Terrace),3.2375,3.722222222,2.911764706,2.833333333,3.738636364
+Sushi Lounge & steakhouse (1112 Nevada Hwy),5,0,4.5,0,4.5
+Matador Pizza & Steak House (4625 Varsity Drive NW),3.583333333,4,3.642857143,2.653846154,3.05
+Moxie's Grill & Bar (1815 Liverpool Rd),3.583333333,3.888888889,3.933333333,2.928571429,4.085714286
+Tony Roma's (200 E Fremont St),2.355633803,2.647058824,2.425531915,2.525423729,1.933139535
+Applebee's Grill + Bar (1143 N Higley Rd),2.481481481,1.558823529,2.354166667,1.166666667,2.8
+Steak on a Stone (36455 Euclid Ave),2.5,2,1.916666667,0,2.884615385
+Serra Gaucha Brazilian Steakhouse (16160 N 83rd Ave),4,3.285714286,3.901639344,2.692307692,3.87628866
+Village Tavern (8787 N Scottsdale Rd),4.053763441,3.942622951,3.777777778,3.528301887,3.857819905
+"Canal Street (Orleans Hotel and Casino, 4500 W Tropicana Ave)",3.557142857,3.25,3.571428571,3.676470588,4.052631579
+Hibachi Japanese Steakhouse (21699 Lorain Rd),2.3,2.4,2.583333333,2.25,2.902777778
+"Sullivan's Steakhouse (1928 South Blvd, Ste 200)",4.1,3.90625,3.961956522,2.806818182,4.023809524
+Forty Rod Roadhouse (9229 Lawyers Rd),1.75,1.666666667,1,1,1.625
+Waverly's Steak House (2121 E Craig Rd),4.254237288,2.5,3.916666667,3.15625,4.396226415
+Paradise Farms Prime Beef Bistro (16057 Airport Road),4,0,0,3.75,4
+"Quinn's Steakhouse & Irish Bar (The Sheraton Centre, 96 Richmond St W)",3.540816327,2.71875,3.62962963,2.56,3.656862745
+Brown Derby (9500 Diamond Ctr Dr),2.59375,2.071428571,1.772727273,2.071428571,2.466666667
+LongHorn Steakhouse (9950 E Independence Blvd),2.777777778,2.35,2.678571429,2.9,3.155172414
+Firebirds Wood Fired Grill (1930 E Williams Field Rd),4.138461538,3.2,3.460526316,2.692307692,4.094594595
+Pasquales on Macleod (6806 MacLeod Trial SE),3.666666667,4,2.45,3.2,2.789473684
+Carve (5255 Boulder Hwy),4.254098361,3.916666667,4.260869565,3.905405405,3.75
+Gallagher's Steakhouse (3790 Las Vegas Blvd S),4.258436945,4.165517241,3.566066066,3.283842795,4.168246445
+Kabuto Japanese Steak House & Sushi Bar (1001 E Wt Harris Blvd),2.662162162,2.807692308,2.825,2.892857143,3.336363636
+Gyubee Japanese BBQ - Downtown (335 Bloor Street W),4.376923077,4.541666667,4.163265306,3.97826087,4.336363636
+The Capital Grille (25389 Cedar Rd),4.359649123,3.416666667,3.823529412,3.323529412,4.132075472
+Moxie's Grill & Bar (159 York Blvd),3.432835821,2.942857143,3.11627907,2.637931034,2.819277108
+8 Seasons Grille (45 S Bassett St),2.852941176,4,3.477272727,3.0625,3.722222222
+Tequila Family Mexican Restaurant (1109 Cherry Rd),3.736842105,2.944444444,3.666666667,4.125,3.712121212
+"Honmachi (1263 E. Silverado Ranch Blvd., # 106)",3.8,0,2.4,2.5,3.125
+Big Foot Smoke House And Bar (16945 Leslie Street),2.625,3,1,3.5,2
+Claim Jumper Restaurant & Saloon (10125 W McDowell Rd),2.516666667,2.076923077,2.827956989,2.333333333,2.300699301
+Durant's (2611 N Central Ave),4.341309824,4.352112676,4.452531646,3.082191781,4.358156028
+All Star Wings & Ribs (10520 Yonge Street),2.74,2.4,3.676470588,2.166666667,3.135135135
+A la Fine Pointe (2527 Rue du Centre),4,0,0,0,2.666666667
+Amigo's Mexican Cantina (777 W Lake Mead Pkwy),2.266666667,1.857142857,2.66,2.625,2.921052632
+Branca (1727 Dundas Street W),3.583333333,4.538461538,3.913043478,2.464285714,4.395833333
+The Haymaker Restaurant (4717 E Bell Rd),3.223021583,3.094339623,3.838383838,3.703125,3.734375
+Applebee's Grill + Bar (2239 W Roosevelt Blvd),2.333333333,1.833333333,2,0,2.642857143
+Andrew's Steak and Seafood (777 Casino Dr),3.714285714,3.576923077,3.4,2.4,3.461538462
+Samurai Japanese Steakhouse & Sushi (1199 W Sunset Rd),3.405759162,2.838709677,3.308176101,3.615740741,3.782520325
+SW Steakhouse (3131 Las Vegas Blvd S),4.193129771,3.74822695,3.975260417,3.090322581,4.169732441
+The Keg Steakhouse + Bar - Ajax (190 Kingston Road E),4.548387097,4.214285714,4.1875,3.333333333,4.517857143
+"Ted's Montana Grill - Waverly (7404 Waverly Walk Ave, Ste I-3)",3.173611111,3.120689655,2.435483871,2.391304348,2.679775281
+Black Angus Steakhouse (13766 West McDowell Road),3.9625,2.818181818,3.755102041,3.125,3.864705882
+Carnevino (3325 Las Vegas Blvd S),3.908419498,3.192810458,3.58560794,2.791784703,3.489263804
+"Shane's Rib Shack (9330 Center Lake Dr, Ste 100)",3.8125,3.75,3.625,3,3.85483871
+Chophouse & Brewery (1198-1000 Sir Patrick Ave),2.41,2.564516129,2.454545455,2.480769231,2.365740741
+Applebee's Grill + Bar (6570 Rte 60 Steubenville Pike),2.590909091,2.5,2.714285714,1.75,2.142857143
+Rouge Boeuf (1553 boulevard le Corbusier),2,0,1,1,1.833333333
+Pinnacle Peak Patio (10426 E Jomax Rd),3.097222222,2.535714286,3.268292683,2.25,3.021428571
+"Outback Steakhouse (1412 East Blvd, Ste A)",3.617647059,1.772727273,3.333333333,2.85,2.636363636
+Waffle House (2553 Cherry Rd),3,4,3.5,2.5,2.916666667
+Steak Frite St-Paul Village (1302 Rue Sainte-Catherine E),2.6,2.125,1.9375,2.6,2.714285714
+Barbie's Restaurant (15 Boulevard Bouchard),2.416666667,2,2.9,1.5,1.777777778
+"Levilla Restaurant (1851 Sirocco Drive SW, Suite 404)",3.961538462,3.3,4.136363636,2.625,4.083333333
+Talavera (10600 E Crescent Moon Dr),3.478873239,3.333333333,3.987179487,2.9,3.883116883
+Cagneys Steakhouse & Wine Bar (128 Queen Street S),4.215686275,3.863636364,3.24,2.9375,4.263157895
+Texas Longhorn (803 Dundas Street E),2.5,4,2.9375,2.333333333,2.416666667
+Phil's Italian Steak House (3300 Las Vegas Blvd S),3.364864865,3.761904762,2.5,2.154761905,3.525316456
+"Saga Hibachi Steakhouse & Sushi Bar (145 Mall Circle Dr, Ste 710, Monroeville Mall)",3.708333333,1.4,3.672413793,2.818181818,3.674418605
+Le Steak Frites St-Paul (86 Avenue de la Gare),2.625,5,1,0,3
+Gyu-Kaku Japanese BBQ (100-638 6th Avenue SW),4.402439024,4.142857143,4.15625,3.928571429,3.720930233
+Echo & Rig (440 S Rampart Blvd),4.577586207,4.354790419,4.376957494,4.034791252,4.569454545
+The Waterfront (590 Liverpool Road S),2.767857143,2.461538462,2.84375,2.7,3.585365854
+Morton's The Steakhouse (400 E Flamingo Rd),4.087349398,4.117021277,4.138613861,2.891891892,4.341911765
+Logan's Roadhouse (945 N Dobson Rd),2.824675325,3.102941176,2.275,2.555555556,3.080188679
+Botero (3131 Las Vegas Blvd S),4.261061947,4.286764706,4.060344828,3.191666667,4.305882353
+Purple Onion Restaurant (2998 Dundas St W),2.681818182,2.625,2.884615385,3,2.787878788
+Kavanaugh's Esquire Club (1025 N Sherman Ave),3.431818182,2.5,2.34375,3.5,3.28125
+Lone Star Texas Grill (930 Dixon Rd),2.8125,1.95,2.416666667,2.333333333,3
+"The Broiler (Palace Station Hotel & Casino, 2421 W Sahara Ave)",3.041666667,3.5,4.4,2.625,2.928571429
+"Fuji Japanese Restaurant (3430 E Tropicana Ave, Ste 30)",4.05,0,4,3.923076923,3.868421053
+Montana's BBQ & Bar (170 Great Lakes Dr),2.818181818,2.1875,3.375,2.75,3.088235294
+Outback Steakhouse (2520 W Chandler Blvd),2.788888889,2.346153846,2.439393939,2.75,2.71875
+LongHorn Steakhouse (6015 Enterprise Pkwy),3.772727273,3.583333333,2.666666667,3.25,3.8125
+O'ribs (600 Pierre Caisse),4,0,4,0,3.5
+Applebee's Grill + Bar (660 S Whitney Way),1.791666667,1.78125,1.3,2.571428571,2.5
+Steak Pit Restaurant (1666 Avenue Road),3.785714286,5,4.166666667,3.5,3.5
+"Union Restaurant & Lounge (Aria Resort & Casino, 3736 Las Vegas Blvd S)",2.692307692,3.477272727,3.25,2.071428571,3.523255814
+Otto's Restaurant & Bar (6405 Mineral Point Rd),4.5,3.928571429,3.705882353,3.423076923,4.358695652
+Social (4321 W Flamingo Rd),3.875,3.961538462,4.5625,4.125,3
+Applebee's Grill + Bar (5010 Great Nern Plaza S),2.7,1.625,1.833333333,5,2.388888889
+"Ochre Grill (Evergreen Village, 2250 162 Avenue SW)",4,0,0,5,5
+The Roadhouse Cafe (7000 E Main St),3,4.5,1.833333333,0,2.916666667
+"Charley's Philly Steaks (5404 New Fashion Way, Ste 618)",1.9,3.1,2.583333333,2.5,2.214285714
+"Stack Restaurant & Bar (Mirage Hotel & Casino, 3400 Las Vegas Blvd S)",3.884433962,3.935779817,3.945887446,3.105633803,4.105726872
+JC's Steakhouse (25 E Ray Rd),3.116504854,2.646341463,3.3,3.040540541,3.708661417
+The Unicorn Restaurant & Pub (423 Main St),4.642857143,4,4.5,2.5,4.416666667
+Quaker Steak & Lube (110 Andrew Dr),2.108108108,2.184210526,3,2.714285714,3.183673469
+Vieux-Port Steakhouse (39 Rue Saint Paul E),3.918181818,4.038461538,3.238636364,2.979166667,3.863636364
+Billy Bob's Steakhouse (5111 Boulder Hwy),2.97,2.194444444,3.565789474,2.891304348,2.855769231
+Top of the World (2000 Las Vegas Blvd S),4.062787136,3.831081081,4.06,3.045592705,4.13222331
+Keg Steakhouse & Bar (4841 Yonge Street),2.666666667,0,2.125,0,2.833333333
+Cadillac Mexican Kitchen & Tequila Bar (129 E Fremont St),3.686567164,3.5,3.583333333,3.6,3.868686869
+Lakewood Village Tavern (13437 Madison Ave),4,4.3,0,3.5,4.055555556
+"Local Bistro (20581 N Hayden Rd, Ste 115)",4.191666667,4.218309859,4.114035088,3.246268657,4.181818182
+Lone Star Steakhouse & Saloon (901 W Anthony Dr),2.75,0,2,0,0
+Ooka Hibachi (16049B N Arrowhead Fountains Dr),2.928571429,3,2.388888889,3,3.25
+Joe Beef (2491 Rue Notre-Dame Ouest),4.433789954,4.213235294,4.162251656,3.072580645,4.372204473
+A La Brasa Mexican Grill (15 N Broom St),3.5875,3.321428571,3.913043478,3.757142857,3.659722222
+Senior's Dining Nook (1397 Yonge Street),5,0,4,0,0
+Skyvue Restaurant (3230 Lebanon Church Rd),2.722222222,2.833333333,2.952380952,3.857142857,2.851851852
+Bill's Pit (1200 Hwy 7 W),2.1875,1,2.666666667,1.666666667,1.5
+Applebee's Grill + Bar (4191 Rockside Rd),2.961538462,3.1875,2.363636364,3.5,3.225
+Xtreme Sushi & Sterling Steakhouse (8955 S Eastern Ave),2.021126761,2.256756757,2.065789474,2.068181818,2.016393443
+Vertigo (1235 Boulevard Robert-Bourassa),2.85,3,1.666666667,3,3.615384615
+Alder & Birch (4500 W Tropicana Ave),4.409638554,3.5,4.35483871,3.592592593,4.458333333
+TEXAZ Grill (6003 N 16th St),4.196517413,4.134146341,3.824324324,3.786516854,4.285488959
+LongHorn Steakhouse (1000 Pittsburgh Mills Blvd),3.166666667,3.5,3.035714286,1.75,2.911764706
+Reef 'n Beef (3735 Rundlehorn Drive NE),4.041666667,3.666666667,4.055555556,3.3,4.033333333
+Michael's on Simcoe (100 Simcoe Street),4.060606061,4.416666667,3.678571429,2.94,3.323529412
+Outback Steakhouse (5708 Mayfield Road),3.2,0,2.5,2.833333333,2.9
+"Firebirds Wood Fired Grill (211 Park Ave, Ste 109)",3.229166667,4.318181818,3.15,2.6875,3.783333333
+O'malley's Rockcliff (2589 Wooster Rd),2.75,1,1,1,2.333333333
+Touro Churrascaria (125 York Boulevard),3.828828829,3.64516129,3.671428571,2.65,3.484693878
+Hillstone Restaurant (2650 E Camelback Rd),4.37007874,4.25,4.246781116,3.102272727,4.361858191
+"Zoes Kitchen (7135 E Camelback Rd., #165)",4.096774194,4.588235294,3.819672131,3.696969697,3.559322034
+Cork'n Cleaver (5101 N 44th St),4.1,3.5,3,2.166666667,3.916666667
+Sarava At Shaker Square (13225 Shaker Sq),4.214285714,3.642857143,3.857142857,2.642857143,3.672413793
+Applebee's Grill + Bar (35055 Maple Grove Rd),1.9,1.857142857,2,2.5,2.464285714
+Applebee's Grill + Bar (5210 W Baseline Rd),2.369230769,2.534482759,2.054347826,2.392857143,2.453846154
+Ben & Jack's Steakhouse (4180 Drinkwater),3.456521739,2.807692308,2.825,2.033333333,3.35
+Caledon Burger Co (16057 Airport Road),2,3,0,2.833333333,3
+Maxx Seafood & Grill (160 York Boulvard),4.125,0,2.166666667,3,2.75
+Vic & Anthony's Steakhouse (129 E Fremont St),4.571428571,4.575268817,4.610552764,3.676190476,4.626644737
+Ta Pies (4520 Avenue du Parc),4.821428571,4.666666667,4.403846154,3.833333333,4.432432432
+Montana's BBQ & Bar (60 Courtneypark Dr E),4.416666667,3.833333333,4.1875,3.833333333,4
+Lone Star Texas Grill (75 Consumers Dr),2.866666667,3.125,3.25,2.833333333,3.566666667
+"Hot Stone Grill (17015 Kenton Dr, Ste 105)",3.625,0,3.5,3.5,3.363636364
+Desert Rose Steakhouse (6729 N 57th Dr),3.555555556,2.984848485,3.308510638,2.522727273,3.548192771
+Zet's Restaurant (6445 Airport Road),3.542372881,3.611111111,3.5,3.511764706,3.5
+Tom Colicchio's Heritage Steak (3400 Las Vegas Blvd S),3.648148148,3.5625,3.120689655,2.6875,3.727699531
+Keg Steakhouse & Bar (12 Church Street),4.5,4,3.5,4,4
+Moss' Prime Rib & Spaghetti House (525 Broad St),2.333333333,5,2.833333333,2.5,3.333333333
+Osaka Japanese Steakhouse (6730 E Superstition Springs Blvd),3.696666667,3.768656716,3.701219512,3.798701299,4.171698113
+La Grillia d'Oro (7681 Boulevard Newman),4.25,0,4,3.5,4.5
+Montana's BBQ & Bar (11654 Sarcee Trail Nw),2.538461538,1.75,2.5,2.071428571,2.305555556
+"Murrieta's Bar & Grill (808 1st Street SW, Suite 200)",4.182692308,3.966666667,4.090909091,3.653846154,4.17
+Applebee's Grill + Bar (14020 Cedar Rd),1.722222222,2,1.8,4,2.15
+Old Barber House (5155 Mississauga Road),2.5,0,2,1.928571429,2.2
+The Keg Steakhouse & Bar (560 King Street W),4.427272727,4.096153846,3.970588235,3.653846154,4.338983051
+Madisons New York Bar & Grill (5222 Rue Sherbrooke E),3,2.833333333,3.25,2.4,2.25
+Claim Jumper Restaurant & Saloon (601 N Green Valley Pkwy),3.572916667,3.201923077,2.733333333,2.717741935,3.567961165
+Outback Steakhouse (24900 Sperry Dr),3.020833333,2.65,3.704545455,2.772727273,2.903846154
+LongHorn Steakhouse (10047 N Metro Pkwy E),3.642857143,2.660714286,3.076923077,3.272727273,3.578313253
+Ichiban Steakhouse & Sushi Bar (1500 Village Run Rd),3.675,3.8,3,3.7,3.265625
+"Veloce Restaurant (M  Hotel, 12300 Las Vegas Blvd S)",3.333333333,3.75,3.75,3.833333333,3.875
+Landry's Seafood House (2610 W Sahara Ave),2.794964029,2.476923077,3.553333333,2.274509804,2.597402597
+Montana's BBQ & Bar (2011 Steeles Ave W),2.441176471,3.285714286,2.8125,2.4,2.761904762
+Outback Steakhouse (5605 W Bell Rd),4.076388889,2.791666667,3.584745763,3.166666667,3.488888889
+The Tilted Dog Pub & Kitchen (424 Parliament Street),4.730769231,4.444444444,4.9,3.772727273,4.726190476
+Outback Steakhouse (1650 S Clearview Ave),2.456521739,2.425925926,2.5,2.692307692,2.725609756
+Siegel's 1941 (600 Fremont St),2.774038462,3.161764706,2.920289855,3.105769231,2.981132075
+"Firefly Seafood & Steak House (3229 Highway 7, Unit 2)",1.844444444,2.404761905,1.833333333,2.22,1.93877551
+The Steak Valet by Choplins (19700 One Norman Dr),3.833333333,0,0,0,4.375
+Marble Room Steaks and Raw Bar (623 Euclid Ave),4.309782609,4.102040816,4.177083333,3.208333333,4.225663717
+Kristofer's Steak House (2901 Las Vegas Blvd),0,2.5,1.5,0,2
+Charbar (618 Confluence Way SE),3.123188406,3.048387097,3.433962264,2.304347826,3.1125
+Zoes Kitchen (521 West McDowell),3.790697674,3.363636364,3.5390625,2.947368421,3.762626263
+Pure Gold Club (2630 Windsor Drive),1,1,3.5,0,4.5
+Outback Steakhouse (2687 S Market St),2.8125,2.661290323,2.866197183,2.676470588,2.987179487
+Texas Roadhouse (4841 Annamark Dr),3.096774194,3.066666667,2.864583333,3.323529412,3.601351351
+Little City Grille (825 Nevada Hwy),4.660416667,3.595238095,4.034883721,4.079365079,4.607394366
+Diamond Men's Club (1628 Fall St),4.5,4.5,3.142857143,0,4.4
+CrocoGrill (1200 Boulevard Chomedey),1.5,0,1.5,0,2.833333333
+Roy's Restaurant (5350 E Marriott Dr),3.241573034,3.493506494,3.644230769,2.698113208,3.179487179
+Leyle's Restaurant (8199 Yonge Street),4.411764706,0,4.25,1.9,3.772727273
+Feng Japanese Steak Hibachi & Sushi House (4305 Main St),4.175675676,4.21875,3.602564103,3.5,3.484615385
+Local Tavern (11 Chester St),3.630434783,3.5625,2.95,3.458333333,3.258064516
+Porto Mar (201 Place d'Youville),4.8,0,4,4.125,4.791666667
+Fujiyama Steakhouse & Sushi Bar (35840 Chester Rd),3.652173913,3.045454545,2.833333333,2.9,3.516666667
+N9NE Steakhouse (4321 W Flamingo Rd),4.323218997,4.135245902,4.393656716,3.02991453,4.193287037
+Robbie's (1569 Route 138),3.25,0,2.833333333,3.5,3.5
+Five Lamps Chophouse & Tavern (175 Main Street),2.5,3.5,0,0,2.5
+"Eddie Merlot's - Pittsburgh (444 Liberty Ave, Ste 100)",4.168269231,3.805555556,3.5,3.025,3.985576923
+Bâton Rouge (1400 Rue Yves-Blais),2.75,0,0,0,3
+"Green Forest Churrascaria (655 Rodi Rd, Ste 1)",4.371212121,4.194444444,4.527777778,3.726190476,4.506329114
+Brown Derby Roadhouse (1994 Brittain Rd),2.333333333,0,1.5,2.166666667,2.333333333
+Copacabana Brazilian Steak House (150 Eglinton Avenue E),3.924137931,3.918604651,3.923611111,3.054347826,3.979651163
+Lone Star Texas Grill (18277 Yonge Street),2.958333333,2.833333333,3.136363636,3.166666667,2.763157895
+Scorpio Seafood & Steak House (1521 Trinity Dr),4.5,4.75,4.25,3.5,3.583333333
+Chops (5322 Chemin Queen-Mary),4,3.5,4.166666667,4,3.666666667
+Vina Pizza & Steak House (311-19th Street NW),4,0,5,4.5,4.833333333
+Yukon Grille (4575 Boulder Hwy),3.911764706,1,3.875,3.7,3.638888889
+LongHorn Steakhouse (20999 Center Ridge Rd),3.210526316,2.833333333,2.45,2.5,3.229166667
+Urban Roadhouse (8807 Mentor Ave),4.361111111,2.9,4.5,3.833333333,4.1
+The Bourbon Cellar (23623 N Scottsdale Rd),4.189655172,4.026315789,4.09375,2.823529412,4.182692308
+3 Margaritas (4717 E Bell Rd),2.666666667,4,2.5,3.5,2.071428571
+"Legends Steak and Seafood (Tropicana Las Vegas, 3801 Las Vegas Blvd S)",4.1,3,0,3.25,3.625
+Applebee's Grill + Bar (4320 Leavitt Rd),3.25,2.9,3,1,2.35
+The Capital Grille (2502 E Camelback Rd),4.438559322,4.201298701,4.420168067,3.117021277,4.5
+Nineteen10 (215 S Depeyster St),3,0,5,4.75,4
+Brand Steakhouse (3770 Las Vegas Blvd S),4.225728155,3.75462963,3.916,3.327777778,4.119512195
+Sapporo Japanese Steakhouse (4260 Steubenville Pike),4,5,4.090909091,3.583333333,3.428571429
+Fiore's Italian Steakhouse (85 Montrose W Ave),1.8,2.5,1.166666667,2.25,2
+Todd's Unique Dining (4350 E Sunset Rd),4.375739645,4.067567568,4.282608696,3.583333333,4.3125
+Quaker Steak & Lube (2259 Deming Way),2.846153846,2.52173913,3.540816327,2.972222222,3.6
+Caribou Gourmand (5308 Boulevard Saint-Laurent),3.9,2.5,1.5,3.166666667,3.75
+Noosa Bistro (9500 Diamond Centre Dr),3.955882353,3.5,3.371428571,3.346153846,3.909836066
+Applebee's Grill + Bar (13832 W McDowell Rd),2,2.981481481,2.468085106,2.285714286,2.362903226
+Applebee's Grill + Bar (35916 Detroit Rd),2.142857143,3.375,3.357142857,4.75,2.916666667
+"Ruth's Chris Steak House (2201 E Camelback Rd, Ste 106-A)",4.18,3.666666667,3.78,3.3,3.952380952
+Wilfrid sur Laurier (222 Avenue Laurier Ouest),3.4,4,4.833333333,4.1875,3.615384615
+Kasai Asian Grill (14344 N Scottsdale Rd),3.775119617,3.63836478,3.700483092,3.0625,3.927419355
+"The Corned Beef House (120 Whitmore Road, Unit 19)",5,1,3.875,4.5,4.75
+ENVY The Steakhouse (3400 Paradise Rd),4.354895105,4.166666667,3.90625,3.133663366,3.983805668
+Logan's Roadhouse (2501 W Happy Valley Rd),2.610465116,2.9,2.623376623,2.548387097,2.788288288
+"Texas Pit Restaurant & Bar (5731 Highway 7, Unit 1)",3,4,3.75,4,3.916666667
+Applebee's Grill + Bar (4039 Washington Rd),2.916666667,2.333333333,1.666666667,3.5,3.5625
+"Beso (Crystal-City  Ctr, 3720 Las Vegas Blvd S)",3.8125,3.875,3.555555556,2.944444444,3.5
+"Affy's Premium Grill (55 Lebovic Avenue, Unit 101-103)",2.375,1.5,1.875,1.25,2.363636364
+The Capital Grille (3200 Las Vegas Blvd S),4.63490099,4.361111111,4.545238095,3.517857143,4.610955056
+Towne380 (380 Boulevard Saint-Martin Ouest),3.25,0,3.5,3.5,3.5
+South Main Kitchen & Tavern (128 S Main St),3.657894737,2.05,2.954545455,3.25,3.357142857
+"The Bootlegger Italian Bistro (7700 Las Vegas Blvd S, Ste 1)",4.050458716,3.229927007,3.712624585,3.279069767,4.136085627
+Roy's Restaurant (7151 W Ray Rd),4.283333333,4.095238095,4.229032258,3.04109589,4.206521739
+Moxie's Grill & Bar (29 Hopewell Way NE),3.948275862,3.625,3.346153846,3.388888889,3.9
+"Red The Steakhouse (600 Grant St, US Steel Tower)",3.133333333,3.205882353,3.229166667,2.4,2.758064516
+Johnny's Italian Steakhouse (1220 South Grand Ave),1.9375,1.333333333,1.714285714,3,2.6875
+Global Restaurant (314 Main St),4.007352941,4.027777778,3.958333333,2.648148148,4.093137255
+Ditka's Restaurant - Wexford (12980 Perry Hwy),2.9,3.1875,3.375,1.833333333,1.966666667
+Texas Longhorn (1077 N Service Road),2.2,1.5,2.333333333,1.625,2.818181818
+Applebee's (5110 Piper Station Dr),3.333333333,2.875,2.5,5,3.041666667
+McCormick & Schmick's Seafood & Steaks (200 S Tryon St),2.644859813,2.559322034,2.458333333,2.5,2.526490066
+Lone Star Steakhouse & Saloon (120 Andrew Dr),5,4.75,0,4.5,4.5
+Paul Martin's American Grill (6186 N Scottsdale Rd),4.298611111,3.696721311,3.510948905,3.098360656,4.18
+Fogo de Chão Brazilian Steakhouse (6300 N Scottsdale Rd),4.330049261,3.923444976,4.18438914,3.113513514,4.291736931
+The Keg Steakhouse & Bar (106 First Commerce Drive),3.9,2.7,3.75,1.833333333,3.472222222
+Arby's (17032 N 99th Ave),3.8125,0,2.833333333,0,3.791666667
+"Omaha Steaks (2192 N. Rainbow, #104)",1.333333333,0,3.5,3.333333333,2.25
+Steak Frites (4167 Saint Denis Street),3.136363636,2,2.333333333,2,2.416666667
+Nobu Tei (30050 Aurora Rd),2.867647059,3,3.480769231,3.208333333,2.840909091
+The Oak Room (61 E University Dr),3.704545455,3.018518519,3.128571429,2.428571429,3.02238806
+Steak ’n Shake (2005 Pittsburgh Mills Blvd),3,2.5,1.875,4,3
+"Wild Side Grill (7215 S Power Rd, Ste 107)",3.173913043,2.708333333,2.653846154,2.666666667,3.057692308
+Tango Bistro (6920 Macleod Trail S),4.38,4.5,4.431818182,3.357142857,4.15
+Sterlings Steakhouse (165 Promenade du Centropolis),2.785714286,1,3.166666667,2.666666667,2.125
+The Melting Pot (19420 N 59th Ave),3.928571429,3.483870968,3.823529412,2.556603774,3.873188406
+Affy's Premium Grill (2283 Argentia Road),2.529411765,2.25,2.55,2.0625,2.882352941
+Maddie's Place (1455 QC-132),4.5,0,2.5,3.5,2.666666667
+The Lake Grill (1628 Brock Street S),3.0625,1,2.65,2.642857143,2.75
+Evoke (555 S McDowell St),3.013157895,3.5,2.941176471,2.5625,3.790909091
+Wasabi Japanese Steakhouse (3598 Midway Mall),3.857142857,2,2.730769231,3.5,3.266666667
+Hyde Park Prime Steakhouse (26300 Chagrin Blvd),4.188888889,3.566666667,4.090909091,2.882352941,4.175
+Grand View Steakhouse (6210 E McKellips Rd),1.75,1.5,2,0,2.571428571
+Tribune Restaurant & Bar (118 8 Ave SW),2.5,2,1.5,3,3.25
+Logan's Roadhouse (2336 W Roosevelt Blvd),2.815789474,3.269230769,2.416666667,2.75,2.857142857
+"Stockyards Restaurant (5009 E Washington St, Ste 115)",3.821428571,4.204545455,4.203883495,2.888888889,4.159375
+Trio Restaurant & Lounge (200 Bass Pro Mills Drive),2.958333333,2.5,3.333333333,2.833333333,3
+Mickey & Mooch (8128 Providence Rd),2.824561404,2.921052632,3.046511628,2.543478261,3.176056338
+"Applebee's Grill + Bar (1601 S Braddock Ave, Edgewood Towne Centre)",3.416666667,3,2.727272727,3,2.785714286
+LongHorn Steakhouse (351 Copperfield Blvd NE),4.217391304,2.928571429,3.5,2.833333333,3.736842105
+"RARE Fine Steak, Wine & Lounge (11261 S Eastern Ave, Ste 200)",2.5,3.75,2.5,2.5,3
+Mastro's Steakhouse (8852 E Pinnacle Peak Rd),4.368715084,4.125,4.220588235,3.008333333,4.332386364
+Firegrill Steakhouse & Bar (1490 Rue Stanley),3.971153846,2.875,2.928571429,3.461538462,3.953488372
+Bull & Bird Steakhouse (87 West St),4.6,4,5,3,4.6
+Brasserie Capri (2172 Rue Saint-Patrick),3.375,4,3,0,2.625
+Miller Tavern (3885 Yonge Street),3.692307692,3.222222222,3.585106383,2.482758621,3.4375
+"Zoes Kitchen (4355 East Indian School Rd, Suite 170)",4.214285714,4.5,2.666666667,4.5,3.545454545
+Chart House (7255 Mccormick Pkwy),3.123931624,2.778846154,2.643939394,1.804878049,3.157692308
+Cabin Club (30651 Detroit Rd),4.588709677,4.5625,4.209302326,3.65,4.436363636
+The Keg Steakhouse + Bar - Marlborough (425 - 36th Street N.E.),3.25,3.625,3,2.666666667,3.444444444
+Houston's Restaurant (6113 N Scottsdale Rd),4.26340694,3.095588235,4.00308642,3.123188406,4.192176871
+Frasher's Steak House & Lounge (2122 N Scottsdale Rd),3.52,3.727272727,3.666666667,3.1,3.957746479
+Timber Lodge (2809 Pearl Rd),3.358490566,3.763157895,4.079545455,2.886363636,4.116883117
+"Zest - Bistro & Bar (10670 Southern Highlands Pkwy, Ste 102)",4.545454545,4.265822785,4.253694581,3.388235294,4.5
+Bâton Rouge Steakhouse & Bar (5385 Rue des Jockeys),3.090909091,4,3.766666667,3,3.12
+Rhythm Kitchen (6435 S Decatur Blvd),3.013274336,3.7,3.62745098,2.834951456,3.704387991
+Houston Avenue Bar & Grill (1001 Square Victoria),2.678571429,2.6875,2.214285714,2.3125,3.142857143
+Buck & Rider (4225 E Camelback Rd),4.584664537,4.529069767,4.51627907,3.5,4.5
+Rare Steakhouse (14 W Mifflin St),3.78125,3.232758621,3.262820513,3.078947368,3.955882353
+Big Red's Steaks (610 University Ave),2.833333333,3,3.8125,2.5,3.083333333
+Outback Steakhouse (3000 Mosside Blvd),3.574074074,3.083333333,2.875,2.583333333,3.402439024
+Pier 51 Seafood Restaurant (744 Cabarrus Ave W),4.65,3.5,4.428571429,4.35,3.333333333
+Del Frisco's Double Eagle Steakhouse (3925 Paradise Rd),4.591849148,4.435622318,4.521428571,3.481283422,4.523770492
+"Oscar's Steakhouse (Plaza Hotel & Casino, 1 Main St)",4.215867159,3.532110092,3.807189542,3.234693878,3.979310345
+Applebee's Grill + Bar (3340 S Maryland),2.833333333,2.680555556,3.244897959,3.055555556,2.907407407
+Gibbys (298 Place d'Youville),4.453416149,4.172413793,4.236486486,3.391666667,4.420382166
+Kiley's Grill (2394 N Alma School Rd),3.083333333,2.8,3.357142857,3,3.333333333
+The Barrymore (99 Convention Center Dr),4.368869936,4.408629442,4.338174274,3.473333333,4.431777379
+"Eddie V's Prime Seafood (20715 N Pima Rd, Ste F1)",3.75,3.25,3.916666667,3.277777778,3
+"Embers (740 S Rampart Blvd, Ste 7)",3.427536232,4.053571429,3.49,3.470588235,3.17816092
+Steakhouse 46 (3555 Las Vegas Blvd S),3.038461538,2,3.1875,2.583333333,2.363636364
+The Palm Las Vegas (3500 Las Vegas Blvd S),4.089108911,4.103448276,3.936440678,3.038461538,4.10230179
+Sizzler (1050 S Country Club Dr),3.375,3.416666667,2.69047619,2.727272727,2.8125
+Hillbilly's Bbq & Steaks (930 E Garrison Blvd),3.409090909,0,3.5,2.833333333,3.194444444
+Geisha House Steak & Sushi (9719 W Flamingo Rd),3.283464567,3.857142857,4.228723404,2.922222222,3.976047904
+Geisha House Steak & Sushi (3751 E Desert Inn Rd),3.883561644,4.375,4.591836735,3.925925926,3.968468468
+Outback Steakhouse (279 Junction Rd),3.096774194,2.416666667,2.729166667,2.541666667,2.228571429
+"Roaring Fork (4800 N Scottsdale Rd, Ste 1700)",4.453557312,4.375586854,4.076923077,3.607734807,4.356788079
+Chop Steakhouse & Bar (2001 Argentia Rd),3.785714286,3.578947368,3.370967742,2.666666667,3.275
+Chuck's Roadhouse Bar and Grill (1650 Victoria Street),2.357142857,2.166666667,3.5,2.611111111,2
+Moxie's Grill & Bar (75 Annagem Blvd),2.942307692,3.52173913,3.392857143,3.666666667,3.639534884
+Treasures Gentlemen's Club & Steakhouse (2801 Westwood Dr),3.573170732,3.322222222,3.337662338,2.578125,3.826086957
+Delibee's (24 Avenue Valois Bay),3.5,0,2,3.5,3.666666667
+The Keg Steakhouse + Bar - Place Ville Marie (5 Place Ville Marie),4.382882883,4.264705882,4.020408163,3.555555556,4.175
+"Charleys Philly Steak (6301 Northlake Mall Dr, Ste FC207)",1,0,1,3,1.5
+Madisons New York Grill & Bar (1065 Rue Drummond),2.772727273,2.5,3.571428571,2.714285714,2.84375
+ML Tavern (34105 Chagrin Blvd),4.425925926,4.35,3.842105263,3.3125,3.564516129
+Toko Japanese Steak House (1855 State Route 59),3.733333333,4.5,3.444444444,3.388888889,2.903846154
+"Rôtisserie Scores (8900 Boulevard Leduc, Suite 10)",3.125,0,0,0,1.5
+"Teppan Cave (3540 Rutherford Road, Unit 64)",4.863636364,0,4.7,4,4.633333333
+The Flying Rib (11926 Madison Ave),3.071428571,3.428571429,3,2.875,3.4
+"Morton's The Steakhouse (625 Liberty Ave, Ste 180)",3.563636364,3.5,3.861111111,2.785714286,3.896226415
+Brazilian Bull Steakhouse (4909 E Chandler Blvd),2.128205128,2.6875,2.314516129,2.108695652,2.525
+"Charley's Grilled Subs (5691 Rickenbacker Rd, Bldg 431)",1,0,3.5,0,2.5
+Fleming's Prime Steakhouse - Scottsdale (20753 N Pima Rd),4.145985401,3.902777778,2.971428571,2.79787234,3.7
+Mister Steer (1198 Rue Sainte-Catherine O),3.153846154,1.6,3.347826087,2.571428571,2.703125
+4u2 Shawarma & Steak (2367 Kingston Road),4,0,0,0,3.5
+Brazilian Grill (9460 S Eastern Ave),2.857142857,4,3.5,3.166666667,3.3
+Centro Restaurant & Lounge (2472 Yonge Street),3.923076923,0,3,3.5,4.433333333
+Texas Roadhouse (3961 S. Gilbert Rd),3.202020202,2.971428571,3.627358491,3.34,3.646551724
+"Moe's Southwest Grill (9330 Center Lake Dr, Ste 100)",1.535714286,2.25,2.807692308,3.25,2.326923077
+The Keg Steakhouse & Bar (670 Matheson Blvd),4.202702703,3.444444444,4.137931034,3.214285714,4.228571429
+Hillbilly's Barbeque & Steaks (720 McAdenville Rd),3.05,4.166666667,3.214285714,3.333333333,3.380952381
+"Ruth's Chris Steak House (115 9 Avenue SE, Suite 294)",3.772727273,3.964285714,4.3,3.166666667,3.371428571
+Fleming's Prime Steakhouse - Woodmere (28869 Chagrin Blvd),3.303921569,3.923076923,3.909090909,2.95,3.923076923
+Montana Meat Company - Durango (9135 S Durango),2.890710383,3.158730159,2.76618705,3.365384615,3.619909502
+Bâton Rouge Steakhouse & Bar (1050 Rue de la Montagne),3.342105263,2.5,1.785714286,2,2.928571429
+The Keg Steakhouse + Bar - Stadium (1923 Uxbridge Drive NW),3.839285714,4,3.321428571,2.2,3.651515152
+Coach's Club (1200 Main St),2.607142857,2.7,3.35,3.166666667,2.411764706
+Roka Akor - Scottsdale (7299 N Scottsdale Rd),4.262755102,4.286432161,4.185770751,3.11878453,4.264578834
+Steak Eez (120 S Water St),1,4,2.5,3.5,3
+"Triple George Grill (201 N 3rd St, Ste 120)",4.24368932,3.611386139,4.219063545,3.466666667,3.988486842
+Universel (359 Rue Sainte-Catherine O),4,3.071428571,3.4375,3.125,4
+Steel City Steak House (2125 Mosside Blvd),3.166666667,2.928571429,2.961538462,2.607142857,3.022727273
+Black Angus Steak House (3277 Bloor Street W),3.3,0,3.916666667,3.166666667,3.666666667
+Toyo Japanese Steak House (1510 Chomedey Boulevard),2.5,3.5,3.5,3.25,4
+Charleys Place (4324 W Thunderbird Rd),3.6,3.4375,3.722222222,3.8125,3.666666667
+Le Steak Frites St-Paul (2125 Boulevard le Carrefour Boul),4.25,4.5,3,4.166666667,4.5
+"Kaizen Sushi Bar & Bio Gourmet Restaurant (4075, Rue Sainte-Catherine Ouest)",2.708333333,2.375,2.857142857,2.863636364,2.3
+Souriana (1249 Rue Bishop),0,0,4.25,4.125,5
+The Captain's Cap (670 Park St),2.642857143,2,1.833333333,3.071428571,3.25
+LongHorn Steakhouse (200 Robinson Center Dr),3.5,2.8,3.615384615,3.136363636,3.369565217
+Yard House (21001 North Tatum Blvd),3.795238095,3.91025641,3.888888889,2.965909091,3.837878788
+Rôtisserie St-Hubert (601 Avenue Saint-Charles),4.25,0,0,3.5,2.833333333
+Roberta's Steakhouse (600 Fremont Street),5,0,0,5,5
+SC Prime Steakhouse & Bar (9090 Alta Dr),4.095238095,3.676470588,3.233333333,3,3.461038961
+Applebee's Grill + Bar (4712 E Ray Rd),2.87755102,2.846153846,2.8,2.4375,2.967741935
+ONoir (124 Rue Prince-Arthur E),4.230769231,4.375,4.4,3.166666667,4.397959184
+Outback Steakhouse (2402 N Prospect Ave),3.58,3.961538462,3.066666667,2.7,2.740740741
+Wise Guys Lounge & Grill (1008 N Main St),2.909090909,2.375,3,3.5,3.730769231
+Applebee's Neighborhood Grill & Bar (2501 W Happy Valley Rd),2.192307692,1.934782609,2.691176471,2.7,2.360465116
+"Suki Akor (401 E M Lk Jr Blvd, Ste 306)",2.833333333,4,2.833333333,2.636363636,2.576923077
+"Sushi Fix (6645 W Bell Rd, Ste A103)",4.527272727,3.666666667,4.275,3.8125,4.170886076
+"Revel (242 Forbes Ave, Fl 1)",3.765822785,3.785714286,3,2.964285714,3.626168224
+Shuhei (23360 Chagrin Blvd),4.209677419,3.666666667,3.808823529,3.217391304,3.436363636
+Texas Roadhouse (10051 N Metro Pkwy E),3.646825397,3.465116279,3.574766355,3.684210526,4.037974684
+Bâton Rouge Steakhouse & Bar (3130 Boulevard  de la Gare),3.875,0,4.5,3.5,4.2
+Ohjah Japanese Steakhouse Hibachi (8991 W Sahara Ave),4.764705882,4.625,4.433333333,4.4,4.401960784
+LongHorn Steakhouse (4907 Grande Blvd),3.538461538,3,2.9,2,3.5
+Bianca's Ristorante Italiano & Lounge (4284 Beverly Hills Dr),2.083333333,1,1.625,2.166666667,2.404761905
+Great Steak (3800 E Sky Harbor Blvd),0,3,2,4,3.5
+Chuck's Roadhouse Bar And Grill (1151 Dundas Street W),3.611111111,2.166666667,2.375,3.166666667,2.333333333
+Social Resto Lounge (227 Brock Street S),4.25,5,5,4.5,4.5
+Claim Jumper Restaurant & Saloon (1530 W Baseline Rd),2.898773006,2.525862069,3.070247934,2.245614035,3.353881279
+Chestermere Landing Steak House & Wine Bar (109 E Chestermere Drive),3,2.75,2,0,2.5
+Outback Steakhouse (1860 E McKellips Rd),3.642857143,2.583333333,2.788888889,2.846153846,3.126984127
+LongHorn Steakhouse (17211 Southpark Ctr),3,3.1,3.464285714,2.5,3.583333333
+Texas Roadhouse (4310 Lakepointe Corporate Dr),4.015625,3.7,3.32,3.5,3.617647059
+Steak House Village (1302 Rue Sainte-Catherine E),2.642857143,0,4,3,2.2
+Etob Restaurant (379 Albion Road),4.666666667,0,5,3.5,4.75
+Don's Lighthouse (8905 Lake Ave),3.666666667,3.315789474,3.844444444,2.944444444,3.928571429
+McIntosh's Steaks & Seafood (1812 South Blvd),4.5,0,4.75,4.5,4.25
+"Bentley's on 27 (201 S College St, Fl 27)",4.307142857,4.155172414,4.048780488,3.25,4.10989011
+Sushi Rock (2101 Richmond Rd),2.7,2.342105263,2.166666667,2.034883721,1.744897959
+Baton Rouge Restaurant (5860 Mavis Rd),3.833333333,0,2,3.5,3.166666667
+"Bistro 70 (70 N St Clair St, Ste 1)",4.020833333,4,3.766666667,3.428571429,4.351851852
+Douze Vingt-et-Un Steakhouse & Cigar Bar (1221 René Lévesque Ouest),2.5,3.5,4.5,3.5,4.5
+Meat & Potatoes (649 Penn Ave),3.995826377,4.372933884,4.363802559,3.390625,4.322563559
+CopaCabana Brazilian Steakhouse (205 Marycroft Avenue),3.923076923,3.777777778,3.458333333,2.5,4
+Coyoacan Steakhouse (9014 S Central Ave),2.666666667,2.75,2.333333333,2.5,3
+The Wooden Nickel (12120 State Rt 30),2.75,3.375,2.166666667,2.454545455,2.382352941
+El Torito Taqueria Bar (1572 W 117th St),3.620689655,3.954545455,4.214285714,3.84,4.333333333
+Ric's Lounge & Grill (8220 Bowridge Crescent NW),3.5,3.5,2.5,4,3.75
+Bon Appétit Chéri (1200 Boulevard Chomedey),4.5,0,5,4.5,4.166666667
+Iggy's Grill Bar Patio at Lionhead (8525 Mississauga Road),4.6,5,4.5,4.5,4.625
+Steak ’n Shake (8511 Concord Mills Blvd),2.473684211,2.071428571,2.52,3.681818182,3.211111111
+Le Bordelais (1000 Boulevard Gouin O),3.333333333,0,0,0,2
+J & G Steakhouse (6000 E Camelback Rd),3.831288344,3.745454545,3.240963855,3.323529412,3.921052632
+Fleming's Prime Steakhouse - Peoria (9712 W Northern Ave),4.23655914,3.908163265,4.053571429,2.983333333,4.028089888
+Montana's BBQ & Bar (1495 Aerowood Dr),3.058823529,2.5,3.25,2.375,2.595238095
+"Black & Bleu American Grill (9343 E Shea Blvd, Ste B135)",3.708333333,3.407407407,3.647058824,2.8,3.925675676
+Smuggler's Inn (6920 MacLeod Trail S),3.953488372,3.666666667,3.703125,3.857142857,4.047619048
+Lone Star Texas Grill (200 Front Street W),2.976190476,3.023809524,2.94,3.166666667,3.70754717
+Steak ’n Shake (2761 Cherry Rd),2.7,1.909090909,1.875,3.625,2.446428571
+Kosar's Wood-Fired Grill (10777 Northfield Rd),3.051282051,3.076923077,2.575,3.184210526,2.88372093
+"Cleaver -  Butchered Meats, Seafood & Cocktails (3900 Paradise Rd, Ste F)",4.657894737,4.666666667,4.6,4,4.595238095
+Grill'n Go (1761 Rue Fleury Est),4.125,0,4.333333333,3.7,4.458333333
+Hyde Park Prime Steakhouse (247 N Shore Dr),4.228971963,3.920454545,3.586956522,3.222222222,3.803797468
+Applebee's Grill + Bar (1655 W Elliot),2.372093023,2.234375,2.608108108,2.107142857,2.62295082
+Master Steaks (5895 Dixie Rd),3.363636364,4,3.033333333,2.930555556,2.857142857
+Red Wheel Restaurant (741 Broadmeadow Rd),1.75,0,2.25,3.125,2.305555556
+"Ohjah Japanese Steakhouse Sushi & Hibachi (8595 S Decatur Blvd, Ste 104)",4.368181818,4,4.406417112,4,4.393548387
+The Overlook (1519 Overlook Rd),3,3,5,3.166666667,3.916666667
+City Tavern (501 Crossroads Plz),3.047619048,2.725,2.627659574,2.233333333,2.658333333
+Hamilton Walker's (201 N Neil St),3.236486486,2.583333333,3.137254902,2.432432432,3.623376623
+O Steak (9705 Boulevard de l'Acadie),4.142857143,0,3.5,3.5,3.5
+Black Angus Steakhouse (10021 Metro Pkwy E),2.947761194,2.56,2.755102041,2.692307692,3.005952381
+Fitzgerald's (3112 Parmenter St),2.470588235,1.833333333,3.090909091,2.15,2.53125
+Fiesta Rancho (2400 N Rancho Dr),2.472222222,2.78125,1.875,2.30952381,2.766666667
+Texas Ranch Steak House (1310 W Sugar Creek Rd),3.5,2.4,3.857142857,2.833333333,3.107142857
+M'Eat Resto Butcher (806 Queen Street E),3.25,1,5,1,3.75
+Oscar's Roadhouse (1785 Queen Street E),2.916666667,3.625,2.6,3.833333333,2.722222222
+Hellriegel's Inn (1840 Mentor Ave),1.9,3,1.9,1.75,2.111111111
+McCall's Heartland Grill (2000 Las Vegas Blvd S),3.868421053,3.671875,3.121212121,3.388888889,3.326666667
+Applebee's Grill + Bar (2 E Camelback),2.1484375,2.84,2.144067797,2.666666667,2.688172043
+Milestones Restaurants (730 Matheson Boulevard West),3.833333333,2.642857143,3.25,2.444444444,3.12962963
+Shula's 2 (6200 Quarry Ln),3.029411765,3.083333333,3.019230769,2.088235294,2.647727273
+"R Steak & Seafood (Riviera Hotel & Casino, 2901 S Las Vegas Blvd)",4.125,4.130434783,2.9,3.403225806,4.017241379
+Sérénité Restaurant (538 W Liberty St),4.777777778,5,4.5,0,4.65
+Paradise Farms Prime Beef Bistro (678C Sheppard Avenue),3.714285714,4,2.925,3.25,3.346153846
+Rivers Casino (777 Casino Dr),2.703125,3.506493506,2.430107527,2.673913043,3.176923077
+Ann's Chophouse (2783 S Park Rd),4.076923077,1.5,4.388888889,3.722222222,3.5
+"Biscayne Steak, Sea & Wine (3801 S Las Vegas Blvd)",4.260273973,3.684210526,4.068181818,2.71875,3.966666667
+"Carvers Steaks & Chops (8258 W Thunderbird Rd, Ste 206)",2.333333333,2.166666667,2.9375,1.166666667,2.5
+Steak 44 (5101 N 44th St),4.647874307,4.401360544,4.368794326,3.440909091,4.574656189
+"Verona Chophouse (Lone Butte Casino, 1077 S Kyrene Rd)",4,3.321428571,3.342105263,3.75,4.042857143
+Le Petit Pêcheur (5131 Boulevard Decarie),4.666666667,0,0,0,5
+Red The Steakhouse (417 Prospect Ave E),4.210526316,3.725,3.765151515,3.069444444,4.076530612
+Tenaya Creek Brewery (3101 N Tenaya Way),4.133333333,4.088235294,3.517241379,3.642857143,3.463636364
+Hitchin Post Saloon & Steakhouse (3650 Las Vegas Blvd N),4,4.25,4.236842105,3.791666667,3.933333333
+Bottlescrew Bill's Pub / Buzzards Restaurant & Bar (140 10 Avenue SW),3.58,3.833333333,3.722222222,3.3,3.269230769
+Brother's Restaurant (110 Lupin Drive),4.305555556,1,4.071428571,3,4.138888889
+Eddie V's Prime Seafood (101 S Tryon St),4.288888889,4.5,4,2.75,4.308510638
+JoBlo (3807 Rue Wellington),3.454545455,4,3.25,3.333333333,4.133333333
+Ginza of Tokyo (4802 E Washington Ave),2,1.333333333,2.5,1.75,2.357142857
+Bâton Rouge Steakhouse & Bar (7520 Weston Road),2.777777778,3.0625,3.423076923,2.4,3.057692308
+The Kitchen Table (3750 Market Street SE),0,2,0,1.5,2.5
+The Boiler House (18 Tank House Lane),4.053571429,3.375,3.818181818,3.166666667,3.988636364
+Amber Jack Seafood & Steaks (4253 S New Hope Rd),3.125,3,2.909090909,3.730769231,2.946428571
+Ryan's (1004 W Anthony Dr),3.357142857,2,2.5,2,1.571428571
+The Porter's House (7417 Waverly Walk Ave),3.604166667,3.767857143,3.982758621,2.304347826,3.46031746
+"Arrowhead Grill (8280 W Union Hills Dr, Ste 110)",4.265454545,3.673611111,4.150793651,3.183673469,4.093851133
+Fleming's Prime Steakhouse & Wine Bar - Charlotte (210 E Trade St),4.058139535,3.432432432,3.652941176,2.673913043,3.823308271
+LongHorn Steakhouse (405 Cox Rd),3.461538462,3.333333333,2.466666667,2.666666667,3.6
+Manhattan Steak House (1446 Boulevard Saint-Martin),5,0,1,1.25,1
+1800 Degrees (3058 Bloor Street W),3.3,1.5,3.333333333,1,2.5
+Jim Gould (1 E Main St),3.75862069,3.8,2.833333333,2.694444444,2.919354839
+Texas Roadhouse (1380 E Craig Rd),4.75,5,4,0,4.875
+Nick's Steak House & Pizza (2430 Crowchild Trl NW),3.66,3.875,2.965517241,2.730769231,3.35483871
+Applebee's Grill + Bar (2045 Lebanon Church Rd),3.5,2,3.071428571,3.5,3.130434783
+Yard House (3545 Las Vegas Blvd),3.791397849,4.134090909,4.262357414,3.794444444,4.328881469
+"Momofuku Daishō (190 University Avenue Toronto, 3rd Floor)",3.395652174,3.541666667,3.885245902,2.317307692,3.625
+Applebee's Grill + Bar (2547 N 44th St),2.217391304,1.890625,2.37962963,2.166666667,2.483333333
+Outback Steakhouse (4520 E Towne Blvd),3.410714286,3.235294118,3.178571429,2.4,2.984375
+"The Metropolitan (317 8 Avenue SW, Suite 150)",2.878787879,2.760869565,3,2,2.846153846
+"Wildfish Seafood Grille (7135 E Camelback Rd, Ste 130)",4.089958159,4.287356322,3.590909091,3.324468085,4.330677291
+Redstone Grill (4970 S Fort Apache Rd),4.166666667,4.5,0,3.5,4.333333333
+"El Congo Restaurant (2300 N Rainbow Blvd, Ste 108)",4.066666667,0,4.285714286,4.5,4.05
+Mother Tucker's (345 10 Ave SW),3,3,3,2.75,2.75
+Ohjah Japanese Steakhouse Sushi & Hibachi Flamingo (10144 W Flamingo Rd),4.364864865,4.017241379,4.504587156,4,4.238636364
+Quaker Steak & Lube (5935 Canal Rd),2.849056604,2.846153846,3.029411765,3.318181818,2.657142857
+"The Range Steakhouse (Harrahs Las Vegas, 3475 S Las Vegas Blvd)",3.905172414,4.107142857,4.032258065,3.369565217,4.302325581
+Fiesta Mexicana Grill (836 Florence St),4.272727273,4.333333333,4.047619048,4.06,4.741071429
+Michael's Gourmet Room (9777 S Las Vegas Blvd),4.168103448,3.704545455,4.5,3.558333333,4.004901961
+A l'Os (5207 Boulevard Saint-Laurent),4.1,0,4.5,0,4.5
+Empress Court (3570 Las Vegas Blvd),3.071428571,4.5,2.875,2.857142857,2.666666667
+"Grillin Hut (1935 Drew Road, Unit 15)",3.576923077,0,4.6,3.333333333,3.083333333
+Casey Jones Tavern (14026 Triskett Rd),0,5,4,0,4.25
+Bâton Rouge Steakhouse & Bar (120 Chemin du Lac Millette),3.166666667,0,3.3,3.333333333,3
+E11even (15 York Street),3.775641026,3.593023256,2.960526316,2.476744186,3.1
+Fuego Steakhouse (777 W Lake Mead Pkwy),4.102409639,2.558823529,3.175925926,3.6875,4.071428571
+Port City Club (18665 Harborside Dr),3.174311927,3.08974359,3.565217391,3.285714286,3.083333333
+Binion's Gambling Hall (128 Fremont St),2.842857143,3.672727273,3.445652174,3.029411765,3.822580645
+Yellowtail by Chef Akira Back (3600 S Las Vegas Blvd),3.482014388,3.890322581,3.452991453,2.666666667,3.87192623
+Rincon De Buenos Aires (5300 Spring Mountain Rd),3.785046729,4.46875,4.515151515,3.87755102,4.403846154
+Chicago Chophouse (237 8 Avenue SE),2,0,0,2.5,3
+Rampart Buffet (221 N Rampart Blvd),2.723404255,3.75,2.488888889,2.307692308,2.294871795
+Village Steakhouse (9440 W Sahara Ave),2.5,0,4.5,2.5,4.25
+Fleming's Prime Steakhouse & Wine Bar (8721 W Charleston Blvd),4.156387665,4.007575758,3.531690141,2.991803279,4.194954128
+"Casey's (Quartier DIX30, 9310 Boulevard Leduc)",3.1,1,2,0,2
+Applebee's Grill + Bar (10921 Carolina Place Pkwy),3.029411765,2.944444444,2.035714286,2.9,2.4
+"Bâton Rouge Steakhouse & Bar (5000 Yonge Street, Unit 102)",2.608108108,3.642857143,3.026315789,2.454545455,2.890625
+TENDER Steakhouse (3900 Las Vegas Blvd S),3.814453125,3.6,3.795275591,2.865384615,3.602272727
+"Le Darlington (Hôtel Courtyard Marriott Montréal Centre-Ville, 380 Boulevard René-Lévesque O)",4.4,0,3,0,3.5
+LongHorn Steakhouse (443 Howe Ave),2.958333333,3.5,2.3,3.5,2.55
+Cadillac Ranch (1060 Settlers Ridge Center Dr),2.466216216,2.931818182,2.601351351,2.425925926,2.359649123
+Rodízio Brasil (160 Rue Notre Dame E),2.666666667,1.5,1.5,2.5,2.184210526
+"Remington's Restaurant (, 7200 N Scottsdale Rd)",3.057377049,3.119047619,2.921052632,2.732142857,3.166666667
+Outback Steakhouse (9623 E Independence Blvd),2.576923077,3.269230769,2.441176471,3,2.918181818
+Eddie V's Prime Seafood (501 Grant St),4.306666667,4.307692308,4.220930233,3.69047619,4.347222222
+Monti's La Casa Vieja (100 S Mill Ave),2.887387387,2.35,3.655913978,2.65,3.368965517
+"Beso Steakhouse (3720 S Las Vegas Blvd, Ste 260)",2.695652174,3.319148936,2.686046512,2.157894737,2.255102041
+Tony Roma's (10 Carlson Court),1.875,0,4.5,1,2.333333333
+Lonestar Texas Grill (410 /7 Mall),3.357142857,4.75,4.666666667,4.5,3.833333333
+Montana's BBQ & Bar (3065 Argentia Road),3.222222222,0,3.333333333,3.5,3.416666667
+Bill Johnson's Big Apple Restaurants (1330 N Dysart Rd),2.027777778,2,2.916666667,2.583333333,2.315789474
+The Keg Steakhouse + Bar (5015 Yonge Street),4.192307692,3.928571429,4.147058824,4.166666667,4.282608696
+Le Milsa (1445 Rue Bishop),3.857142857,2,3.230769231,4,3.590909091
+Pollos LaChuya (2706 E University Dr),4.631578947,5,4.976190476,4.423076923,4.798387097
+L'Atelier d'Argentine (355 Rue Marguerite d'Youville),3.256097561,3.277777778,3.566666667,2.921052632,3.509803922
+Johnny's Italian Steakhouse (8390 Market St),3.485576923,3.444444444,3.49122807,3.048387097,3.644144144
+Canyon Creek (255 Bass Pro Mills Drive),3.583333333,4.428571429,3.966666667,2.6875,3.307692308
+Twin Creeks (3333 Blue Diamond Rd),4.112121212,3.75,3.595959596,3.662280702,3.66875
+Picanha Steak Truck (),4.318181818,0,3.55,3.1,4.263157895
+Le Viking Restaurant & Bar (50 Chemin Masson),4.5,0,0,0,4
+Applebee's Grill + Bar (3501 S Rainbow),2.47826087,2.166666667,2.580645161,3.1875,2.928571429
+Delaney's Charcoal Steaks (449 Grand Canyon Dr),3.9,4,4.068181818,2.642857143,3.3375
+St-Charles Steak House (350 Sicard Street),3.5,0,0,0,5
+Tom Jones Steakhouse & Seafood (17 Leader Lane),3.904761905,3.785714286,3.642857143,2.65,3.441176471
+Carvers Steakhouse (8172 W Bell Rd),3.083333333,3,2.75,2.5,3
+"The Keg Steakhouse + Bar (Bramalea City Centre, 46 Peel Centre Drive)",4.02,2.5,3.066666667,2.3,3.851851852
+Diablos (3619 Boulevard Saint-Laurent),2.935483871,2.88,2.911764706,2.625,2.590909091
+Bâton Rouge Steakhouse & Bar (277 Front Street W),3.013157895,2.653846154,2.4375,2.576923077,2.402439024
+Piero's Italian Cuisine (355 Convention Center Dr),4.341101695,4.325396825,4.439849624,2.770833333,4.187956204
+Pullman Grille (200 N Main St),4.666666667,0,0,4,4
+"Primo's Steakhouse (9090 Alta Dr, 2nd Fl)",5,5,5,2.5,4
+Fire Grill (3500 Boulevard de la Côte Vertu),3.1875,2.75,2.8,3,2.764705882
